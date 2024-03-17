@@ -14,15 +14,25 @@ The name of this association shall be the Kenston Parent Teacher Organization (K
 ## MISSION STATEMENT
 Our mission is to encourage and enhance the education and welfare of the students of the Kenston Local School District.  We provide a program of value for parents, teachers, and the school administration. We work to address school needs that are not provided for in the school budget.
 
+The Kenston Parent Teacher Organization is a nonprofit corporation and shall be operated exclusively for educational and charitable purposes with the meaning of Section 501(c)(3) of the Internal Revenue Code of 1986, or the corresponding section of any future Federal tax code.
+
+## NONPROFIT STATUS
+The Kenston Parent Teacher Organization is an Ohio nonprofit corporation, recognized as tax exemptunder Section 501 (c)(3) of the United States Internal Revenue Code.
+
+### Exempt Activities Limitation
+Notwithstanding any other provision of these by-laws, no director, office, employee, member, or representative of this corporation shall take any action or carry on any activity by or on behalf od the coproration not permitted to be taken or carried on by an organization exempt under Section 501(c)(3) of the Internal Revenue Code as it now exists or may be amended.
+
+No part of the net earnings of the corporation shall inure to the benefit or be distributable to any director, officer, member, or other private person, except that the corporation shall be authorized and empowered to pay reasonable compensation for services rendered and to make payments and distributions in futherance of the purposes set forth in the Articles of Incorporation and these by-laws.
+
 ## STRUCTURE
 Kenston PTO is comprised of a PTO Council and a Building specific PTO for each school in the Kenston Local School District.  Kenston PTO hereinafter will be referred to as PTO.
 
 The PTO Council governs and coordinates all Building PTOs in the Kenston Local School District in an effort to support not only the individual PTOs, but the Kenston Local School District as a whole. 
 
 Each Building PTO plans and executes the PTO activities, events, and programs for their Building in support of the PTO mission in accordance with the by-laws of PTO and with the guidance of the PTO Council. Each Building PTO is to be structured as follows:
-1. A Building Executive Committee - lead the Building PTO, act as liason with Building Administration and PTO Council, appoint the Building General Board.
-3. A Building General Board - oversee committees to develop, plan, and execute the Building PTO activities.
-4. All Building PTO Members - serve on committees, volunteer to help execute activites.
+* A Building Executive Committee - lead the Building PTO, act as liason with Building Administration and PTO Council, appoint the Building General Board.
+* A Building General Board - oversee committees to develop, plan, and execute the Building PTO activities.
+* All Building PTO Members - serve on committees, volunteer to help execute activites.
 
 ## MEMBERSHIP AND DUES
 Membership will be offered to all parents, guardians, teachers and administrative staff in the Kenston Local School District
@@ -69,10 +79,9 @@ The duties of a PTO Council member shall include, but not be limited to:
 8.	All PTO Council members (with the exception of Building Presidents and Vice Presidents) are required to attend at least one Kenston Board of Education meeting per year and provide a report to the Council President afterwards.
 9.	All PTO Council members must be a member of at least on Building PTO General Board or be an active committee member in at least one Building PTO.
 10.	All PTO Council members are encouraged to attend at least one Kenston Board of Education meeting per year.
-11.	Assume their official duties following the close of the final meeting of the preceding school year, with the exception of the Treasurer who will assume their duties at the close of the annual audit.
-12.	Upon expiration of the term of office, or in case of resignation, turn over to the President all records, books and other materials pertaining to office without delay, and shall return to the Treasurer, immediately, all funds pertaining to the office.
+11.	Upon expiration of the term of office, or in case of resignation, turn over to the President all records, books and other materials pertaining to office without delay, and shall return to the Treasurer, immediately, all funds pertaining to the office.
 
-## PTO COUNCIL TERM-OF-OFFICE
+## PTO COUNCIL TERM OF OFFICE
 Each officer in the PTO Council will have a one year term. Transitions take effect following the close of the final regular PTO Council meeting of the school year for all positions except for Treasurer. Council Treasurer will assume their duties at the close of the annual audit.
 
 ## PTO COUNCIL TERM LIMITS
@@ -103,9 +112,6 @@ The function of the PTO Council Committee Chairs is to oversee a Committee to pr
 ## PTO COUNCIL COMMITTEES
 PTO Council may enact standing or ad hoc committees by majority vote as deemed necessary.  The committees shall be responsible to the President and PTO Council. Such Committees are expected to have building representation and/or input to reach resolutions. Representation may include the Building President or the Building General Board member most associated with the topic at hand. Input may include emails, phone calls or meeting attendance.
 
-## PTO COUNCIL VOTING MEMBERS
-The voting members of the PTO Council are: Vice-President, Treasurer, Secretary, and all of the Council Committee Chairs (Care Blue, Communications, Bomber Hangar, Directory, Membership, Fundraising, and Staff Appreciation). In case of a tie, the President may cast a vote.
-
 ## PTO COUNCIL ELECTIONS
 1.	No later than March 1st, the current PTO Council Executive Committee will identify which PTO Council positions will be vacated the subsequent school year and begin seeking nominations for those positions.
 2.	The current PTO Council Executive Committee shall contact eligible candidates (see below) no later than March 15th to seek nominations for remaining positions, if any. Interested individuals will present an application and a letter of recommendation to PTO Council by April 1.
@@ -118,55 +124,69 @@ The voting members of the PTO Council are: Vice-President, Treasurer, Secretary,
 2.	All members of the PTO Executive Committee must have served on the Executive Committee of a Building PTO for at least one term.
 3.	All Committee Chairs must have served on a Building Executive Council for one term or as a Building Committee Chair for at least two years.  Those with less than two years experience will be discussed by PTO Council and their eligibility will be determined by vote of the current Council Executive Board.
 
-# LEADERSHIP STRUCTURE:  BUILDING PTO BOARD
+# LEADERSHIP STRUCTURE:  BUILDING PTO
 
-## BUILDING PTO BOARD ROLE
-The Building PTO Board plans and executes the PTO activities, events and programs for their Buildings in support of the PTO mission, in accordance with the by-laws of PTO and in coordination with PTO Council and the other Building PTOs.
+## BUILDING PTO ROLE
+The Building PTO plans and executes the PTO activities, events and programs for their Buildings in support of the PTO mission, in accordance with the by-laws of PTO and in coordination with PTO Council.
 
-## BUILDING PTO BOARD MEMBERSHIP
-A Building PTO shall consist of the Executive Committee (President, Vice/Co-President, Treasurer and Secretary), Board Members as specified by each Building (see Appendix), the Building’s Principal and the Assistant Principal.  
+## BUILDING PTO ORGANIZATION
+A Building PTO shall consist of the Executive Committee (President, Vice-President, Treasurer and Secretary), General Board Members as determined by each Building, the Building’s Principal and the Assistant Principal, and all members in good standing.
 
-## BUILDING PTO BOARD DUTIES
-The duties of a building board member shall include, but not be limited to:
-1.	Be familiar with the PTO by-laws.
+## RELATIONSHIP BETWEEN BUILDING PTO AND PTO COUNCIL
+1. The Building PTO is responsible for all decisions within the scope of their Building.
+2. PTO Council is responsible for coordinating all District level activities including those that may take place at or include Building activities.
+3. PTO Council is responsible for approving, reviewing, and overseeing the Building Executive Committee to ensure that the processes and procedures in these by-laws are being followed.
+4. PTO Council Treasurer will review and approve each Building’s Budget prior to the start of the school year.
+5. PTO Council will abide by the decisions made by Building PTOs.
+
+## BUILDING PTO TERM OF OFFICE
+Each officer in the PTO Council will have a one year term. Transitions take effect following the close of the final regular Building PTO meeting of the school year for all positions except for Treasurer. Building Treasurer will assume their duties at the close of the annual audit.
+
+## BUILDING PTO TERM LIMITS
+The Building PTO President is limited to no more than two consecutive terms, unless approved by PTO Council. No other position within PTO Council has a restriction on the number of terms.
+
+## BUILDING PTO DUTIES
+The duties of a Building Executive Committee or General Board member shall include, but not be limited to:
+1.	Have an operational understanding of the PTO by-laws and how they relate to their current role.
 2.	Abide by PTO Code of Conduct.
 3.	Attend regular and special meetings (arriving promptly and remaining until adjournment) and vote when required.
-4.	Keep a detailed account of duties, responsibilities and recommendations for succeeding board members.
+4.	Keep a detailed account of duties, responsibilities and recommendations for succeeding members.
 5.	Make progress reports at all board meetings or respond to current inactivity by saying “no report”.   
 6.	Answer correspondence promptly including providing committee documentation and keeping complete correspondence files.
 7.	Follow all Treasury policies, including submitting funds for disbursement and proper handling of receipts.
-8.	Assume their official duties following the close of the final meeting of the preceding school year, with the exception of the Treasurer who will assume their duties at the close of the annual audit.
-9.	Upon expiration of the term of office, or in case of resignation, turn over to the President all records, books and other materials pertaining to office without delay, and shall return to the Treasurer, immediately, all funds pertaining to the office.
+8.	Upon expiration of the term of office, or in case of resignation, turn over to the President all records, books and other materials pertaining to office without delay, and shall return to the Treasurer, immediately, all funds pertaining to the office.
 
-## BUILDING PTO EXECUTIVE COMMITTEE APPOINTMENT
-Building PTOs shall elect their own Executive Committees according to a schedule and transparent process defined by PTO Council.
-1.	The Current Executive Committee will identify which Executive Officer positions will be vacated the subsequent school year and will seek nominations through a series of open announcements as follows:
-    a)	January – Email announcement of open Executive positions to the Current Board and the Preceding School’s current board.
-    b)	February – Email announcement of open Executive positions to the entire school, plus the preceding school’s incoming parents.   In addition, provide information at any orientation sessions.
-    c)	March – address the PTO Board and preceding school’s Board for final nominations.
-2.	Nominations should be provided to the President on Nomination Form (see appendix).  Self-nominations will be accepted.   Nominees should be reviewed with Building Principal and PTO Council.   In addition, the President will contact each nominee to determine their willingness to serve.
-3.	Whether one person or more is nominated for each office, the President shall prepare a printed ballot (see Appendix) to be presented in advance of the April meeting for a vote by the Board.
-4.	At the close of the meeting, the ballots shall be counted by the PTO President and School Representative i.e. principal, assistant principal, guidance counselor.   The results will be communicated within 24 hours of the meeting.  Ballots must be kept until the end of the subsequent school year.  
+## BUILDING PTO EXECUTIVE COMMITTEE
+Each Building PTO Executive Committee shall consist of of a President, Vice-President, Treasurer and Secretary.
+1.	President:  The President shall preside over all meetings and serve as a liaison with Building Administration and with PTO Council. The President shall be responsible for ensuring compliance with these PTO by-laws and the PTO Mission within their building.
+2.	Vice-President:  The Vice-President shall assume the duties of the President should he/she be unable to perform the duties. The Vice-President shall assist the President as necessary.
+3.	Treasurer:  The Treasurer shall have full custody of all Building PTO funds; shall keep a full and accurate accounting of receipts and expenditures; maintain a reconciled checkbook, make disbursements based on the approved budget or approved funding requests; and shall sign all checks or vouchers. The Treasurer shall present a financial report to the members of Building PTO at every meeting and as requested by their executive committee or at the request of PTO Council.
+4.	The secretary shall be responsible for taking, distributing and amending the minutes of every meeting. Minutes shall be distributed to every Building Board member one week before the following month’s meeting. The Secretary shall be responsible for having the PTO by-laws on hand at all meetings.
 
-## BUILDING PTO EXECUTIVE COMMITTEES
-Each Building PTO shall consist of its Executive Committee, comprised of a President, Vice-President, Treasurer and Secretary.   At the Building PTO, Co-Presidents may be chosen in lieu of the President/Vice-President combination.
-1.	President:  The President shall preside over all meetings and serve as a coordinator and liaison with Building Administration and with PTO Council.   The President shall be responsible for ensuring compliance with these PTO by-laws and the PTO Mission within their building. The term of the Building President shall be limited to 2 years unless approved by PTO Council.
-2.	Vice-President:  The Vice-President shall assume the duties of the President should he/she be unable to perform the duties.   The Vice-President shall assist the President as necessary.
-3.	Treasurer:  The Treasurer shall have full custody of all Building PTO funds; shall keep a full and accurate accounting of receipts and expenditures; maintain a reconciled checkbook, make disbursements based on the approved budget or approved funding requests; and shall sign all checks or vouchers.   The Treasurer shall present a financial report to the members of Building PTO at every meeting and as requested by their executive committee or at the request of PTO Council.
-4.	The secretary shall be responsible for taking, distributing and amending the minutes of every meeting.   Minutes shall be sent to the Building President for distribution to every Building Board member one week before the following month’s meeting.   The Secretary shall be responsible for having the PTO by-laws on hand at all meetings.
-
-## BUILDING PTO BOARD APPOINTMENT
-Each year, the Current Executive Committee should identify which Board Positions will be vacated the next year and disclose those positions to the current Building Board during a regular meeting, and subsequently collect interest forms to fill these positions (see Appendix).     The PTO Board should then work together to recruit and appoint Board Members for the subsequent year.   
-
-## BOARDS
-Each Building shall organize a board and supporting committees to carry out the mission of the PTO.
-1.	Each building shall determine the positions and responsibilities of their Boards and record those in the Building Appendix of these by-laws.  Changes or additions to the Board and/or Board position responsibilities must be approved by PTO Council and voted on as a by-law amendment.
-2.	Only members of the PTO shall be eligible to serve in any Board position.  
+## BUILDING PTO GENERAL BOARD
+Each Building PTO Executive Committee shall organize a General Board and supporting committees to carry out the mission of the PTO.
+1.	Each Building shall determine the positions and responsibilities of their General Boards.
+2.	The Building Srecretary is responsible for maintaining a list of all current General Board positions and members.
+3.	Changes or additions to the Board and/or Board position responsibilities must be approved by the Building Executive Committee.
+4.	Only members of the PTO in good standing shall be eligible to serve in any Board position. 
 
 ## BUILDING PTO COMMITTEES
-Where appropriate, board members may create committees to execute the work of the PTO.   The corresponding chairperson shall report the work of the committee to the Building PTO President and Board.   
+Where appropriate, Board members may create committees to execute the work of the PTO. The corresponding chairperson shall report the work of the committee to the Building Executive Committee and General Board.
 1.	The Committee Chairperson shall present a plan of work to the President for approval and shall adhere to the budget and all treasury policies in these by-laws.
-2.	The Building president shall be a member ex-officio of all committees.
+2.	Each Building Committee shall have a corresponding line item in the Building Budget.
+3.	The Committee Chair is responsible for maintaining a proactive understanding of their remaining budget through coordination with the Building Treasurer.
+4.	The Building President shall be a member ex-officio of all committees.
+
+## BUILDING PTO EXECUTIVE COMMITTEE ELECTIONS
+Building PTOs shall elect their own Executive Committees according to a schedule and transparent process defined by PTO Council. The results of the election will be presented to the PTO Council at the next meeting for Council review and approval.
+1.	No later than February 1st, the current Building Executive Committee will identify which Executive Officer positions will be vacated the subsequent school year. Open positions will then be announced via email to the Current Board and the Preceding School’s current board for nominations.
+2.	At the regular March meeting of the Building PTO and the Preceeding Building's PTO, the open positions will be announced and nominations saught.
+3.	Nominations should be provided to the President. Self-nominations will be accepted. Nominees must be approved by the Building Principal and PTO Council. In addition, the President will contact each nominee to determine their willingness to serve.
+4.	The President shall prepare a printed ballot with all open positions and nominees. This will be distributed to the General Board members prior to the April Building PTO Meeting.
+5.	At the April Building PTO meeting, a secret vote will be held for each open position, regardless to the number of nominees. At the close of the meeting, the ballots shall be counted by the PTO President and School Representative i.e. principal, assistant principal, guidance counselor. The results will be communicated to PTO Council within 24 hours of the meeting.  Ballots must be kept until the end of the subsequent school year.
+
+## BUILDING PTO BOARD APPOINTMENT
+Each year, the Executive Committee should identify which Board Positions will be vacated the next year and disclose those positions to the current Building Board during a regular meeting, and subsequently collect interest forms to fill these positions. The Building Executive Board is responsible for appointing the Building Board.
 
 # FINANCES
 
