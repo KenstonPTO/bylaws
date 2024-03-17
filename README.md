@@ -12,12 +12,12 @@ February 2018
 The name of this association shall be the Kenston Parent Teacher Organization (Kenston PTO).
 
 ## MISSION STATEMENT
-Our mission is to encourage and enhance the education and welfare of the students of the Kenston Local School District.  We provide a program of value for parents, teachers, and the school administration. We work to address school needs that are not provided for in the school budget.
+Our mission is to encourage and enhance the education and welfare of the students of the Kenston Local School District. We provide a program of value for parents, teachers, and the school administration. We work to address school needs that are not provided for in the school budget.
 
 The Kenston Parent Teacher Organization is a nonprofit corporation and shall be operated exclusively for educational and charitable purposes with the meaning of Section 501(c)(3) of the Internal Revenue Code of 1986, or the corresponding section of any future Federal tax code.
 
 ## NONPROFIT STATUS
-The Kenston Parent Teacher Organization is an Ohio nonprofit corporation, recognized as tax exemptunder Section 501 (c)(3) of the United States Internal Revenue Code.
+The Kenston Parent Teacher Organization is an Ohio nonprofit corporation, recognized as tax exempt under Section 501(c)(3) of the United States Internal Revenue Code.
 
 ### Exempt Activities Limitation
 Notwithstanding any other provision of these by-laws, no director, office, employee, member, or representative of this corporation shall take any action or carry on any activity by or on behalf od the coproration not permitted to be taken or carried on by an organization exempt under Section 501(c)(3) of the Internal Revenue Code as it now exists or may be amended.
@@ -25,7 +25,7 @@ Notwithstanding any other provision of these by-laws, no director, office, emplo
 No part of the net earnings of the corporation shall inure to the benefit or be distributable to any director, officer, member, or other private person, except that the corporation shall be authorized and empowered to pay reasonable compensation for services rendered and to make payments and distributions in futherance of the purposes set forth in the Articles of Incorporation and these by-laws.
 
 ## STRUCTURE
-Kenston PTO is comprised of a PTO Council and a Building specific PTO for each school in the Kenston Local School District.  Kenston PTO hereinafter will be referred to as PTO.
+Kenston PTO is comprised of a PTO Council and a Building specific PTO for each school in the Kenston Local School District. Kenston PTO hereinafter will be referred to as PTO.
 
 The PTO Council governs and coordinates all Building PTOs in the Kenston Local School District in an effort to support not only the individual PTOs, but the Kenston Local School District as a whole. 
 
@@ -41,12 +41,12 @@ Membership will be offered to all parents, guardians, teachers and administrativ
 3.	Every member of the PTO is entitled to all benefits of such membership.
 4.	Only members of the PTO shall be eligible to serve in any of its positions.
 5.	The PTO shall conduct an annual enrollment of members through its buildings, but persons may be admitted to membership at any time.
-6.	Each member of the PTO shall pay annual dues. The cost of annual dues shall be set and published for the subsequent school year after a vote of the PTO Council.  Dues will be levied on a per family, per building, per year basis.
+6.	Each member of the PTO shall pay annual dues. The cost of annual dues shall be set and published for the subsequent school year after a vote of the PTO Council. Dues will be levied on a per family, per building, per year basis.
 
 ## PTO CODE OF CONDUCT
 The PTO Code of Conduct shall apply to all members.
 1.	Consistently display high personal standards and professional ethics.
-2.	Respect others in all interactions and display a favorable image when representing PTO.   Image is displayed through words, actions, behavior, and social media communication.
+2.	Respect others in all interactions and display a favorable image when representing PTO. Image is displayed through words, actions, behavior, and social media communication.
 3.	Abstain from drinking or being under the influence of alcohol or other drugs while attending PTO sponsored events where Kenston students are present.
 4.	Refrain from personal attack or harassment, whether visual, verbal or physical on another person.
 5.	Protect members’ privacy by not allowing the distribution of membership lists, emails, addresses or other personal information to outside interests.
@@ -73,7 +73,7 @@ The duties of a PTO Council member shall include, but not be limited to:
 2.	Abide by PTO Code of Conduct.
 3.	Attend regular and special meetings (arriving promptly and remaining until adjournment) and vote when required.
 4.	Keep a detailed account of duties, responsibilities and recommendations for succeeding members.
-5.	If chairing a committee, make progress reports at all meetings or respond to current inactivity by saying “no report”.   
+5.	If chairing a committee, make progress reports at all meetings or respond to current inactivity by saying “no report”. 
 6.	Answer correspondence promptly including providing committee documentation and keeping complete correspondence files.
 7.	Follow all Treasury policies, including submitting funds for disbursement and proper handling of receipts.
 8.	All PTO Council members (with the exception of Building Presidents and Vice Presidents) are required to attend at least one Kenston Board of Education meeting per year and provide a report to the Council President afterwards.
@@ -87,29 +87,29 @@ Each officer in the PTO Council will have a one year term. Transitions take effe
 The PTO Council President is limited to no more than two consecutive terms, unless approved by PTO Council. No other position within PTO Council has a restriction on the number of terms.
 
 ## PTO COUNCIL EXECUTIVE COMMITTEE
-The PTO Council Executive Committee shall consist of a President, Vice-President, Treasurer and Secretary.    
-1.	President:  The President shall preside over all meetings and serve as a liaison between the District Administration and PTO Council. The President shall be responsible for ensuring compliance with these PTO by-laws and the PTO Mission.
-2.	Vice-President:  The Vice-President shall assume the duties of the President should he/she be unable to perform the duties.   The Vice-President shall assist the President as necessary.
-3.	Treasurer:  The Treasurer shall have full custody of all PTO Council funds; shall keep a full and accurate accounting of receipts and expenditures; maintain a reconciled checkbook, make disbursements based on the approved budget or approved funding requests; and shall sign all checks or vouchers. The Treasurer shall present a financial report to the members of PTO Council at every meeting and as requested by the PTO Council Executive Committee.   Additionally, the Treasurer of PTO Council shall oversee compliance to the Treasury section of these by-laws by each building, shall provide annual training to each Building Treasurer, and shall oversee audits of each Building’s accounts as needed, at least once annually.
-4.	Secretary:  The Secretary shall be responsible for taking, distributing and amending the minutes of every PTO Council meeting. The Secretary shall be responsible for having the PTO by-laws on hand at all meetings.
+The PTO Council Executive Committee shall consist of a President, Vice-President, Treasurer and Secretary. 
+1.	President: The President shall preside over all meetings and serve as a liaison between the District Administration and PTO Council. The President shall be responsible for ensuring compliance with these PTO by-laws and the PTO Mission.
+2.	Vice-President: The Vice-President shall assume the duties of the President should he/she be unable to perform the duties. The Vice-President shall assist the President as necessary.
+3.	Treasurer: The Treasurer shall have full custody of all PTO Council funds; shall keep a full and accurate accounting of receipts and expenditures; maintain a reconciled checkbook, make disbursements based on the approved budget or approved funding requests; and shall sign all checks or vouchers. The Treasurer shall present a financial report to the members of PTO Council at every meeting and as requested by the PTO Council Executive Committee. Additionally, the Treasurer of PTO Council shall oversee compliance to the Treasury section of these by-laws by each building, shall provide annual training to each Building Treasurer, and shall oversee audits of each Building’s accounts as needed, at least once annually.
+4.	Secretary: The Secretary shall be responsible for taking, distributing and amending the minutes of every PTO Council meeting. The Secretary shall be responsible for having the PTO by-laws on hand at all meetings.
 
 ### Duties of the Executive Committee
-1.  At least one member of the Executive Committee is required to attend the first meeting of each Building PTO Board to explain the role of Council, recruit members for Council committees, and explain the PTO Mission.
-2.  Meet as needed to support and ensure the smooth operation of the PTO Council.
+1. At least one member of the Executive Committee is required to attend the first meeting of each Building PTO Board to explain the role of Council, recruit members for Council committees, and explain the PTO Mission.
+2. Meet as needed to support and ensure the smooth operation of the PTO Council.
 
 ## PTO COUNCIL COMMITTEE CHAIRPERSON
-The function of the PTO Council Committee Chairs is to oversee a Committee to provide services to either the District or that span across multiple Buildings. It is the responsibility of the Committee Chair to seek Committee participation from all the Building PTO members.  The Chair will maintain a document describing the details of their role in order to facilitate transitions to future Chairs. Particular duties of each Chair are detailed below.
+The function of the PTO Council Committee Chairs is to oversee a Committee to provide services to either the District or that span across multiple Buildings. It is the responsibility of the Committee Chair to seek Committee participation from all the Building PTO members. The Chair will maintain a document describing the details of their role in order to facilitate transitions to future Chairs. Particular duties of each Chair are detailed below.
 
-1.	The Care Blue Chairperson shall be responsible for caring for the Kenston community through gestures of recognition or support for others in times of need or crisis.  In addition, Care Blue coordinates “New to District” programs and activities.  The PTO Council Care Blue Chairperson will coordinate these activities at District level and ensure consistent application of these programs at the Building PTO level. They will maintain, publish and communicate detailed Care Blue procedures to each Building Care Blue Chairpersons.
-2.	The Communications Chairperson shall be responsible for the PTO Website, social media, electronic communications, and all printed communications. The Chairperson shall maintain the PTO homepage and assist the Building Communications Chairpersons with the maintenance of individual building pages as needed. The Chairperson will coordinate communications to the Kenston PTO Community, and assist Building PTOs with their communications as necessary.  Communications Chairperson will arrange training and technical support to Building PTOs. They will maintain, publish and communicate detailed Communications procedures to Building Communication Chairpersons.
-3.	The Bomber Hangar Chairperson shall manage all aspects of the Bomber Hangar Spirit Wear Store including, but not limited to, Purchasing, Inventory Management, Pricing, Marketing/Communications, Sales, Operations/Logistics and Volunteers. This includes evaluation of vendor relationships, outside services and sales/inventory systems as needed.  The Chairperson will achieve profitability to sustain each year’s merchandise investment as well as maintaining an operating reserve specified by the Council Treasurer. When possible, ensure Building PTO Boards employ Bomber Hangar merchandise for prizes, incentives, staff appreciation, etc. The Chairperson will provide updates on the Bomber Hangar operations, sales and financial status at all PTO Council meetings. They will maintain, publish and communicate detailed Bomber Hangar procedures to Building Chairpersons and volunteers. When revenue exceeds the required reserve and operating levels, the Chair and Treasurer can coordinate disbursements to the individual Building PTOs. Disbursement levels will be based on number of grades per building and building support of Bomber Hanger.
-4.	Directory Chairperson is responsible for the annual creation of a district-wide Parent/Student Directory that contains the address and/or phone number of all students and their families on an opt-out basis.  In particular, the chairperson may need to do the following tasks: securing printing services, working with the Fundraising Chair to solicit advertising sponsors, editing spreadsheet data received from the Board Office, communicating with parents regarding information to be printed (as needed), creating and sending invoices to sponsors, receiving and delivering checks from sponsors to PTO Council Treasurer, electronically sending data to the printer, reviewing the directory proof from the printer, organizing volunteers to help with directory distribution, pick up directories from the printer, label and distribute directories to separate buildings and sponsors, create invoice to building PTOs if required, and request PTO Council Treasurer to process payment for directory to the printer.
-5.	Membership Chairperson shall be responsible for overseeing the membership drive throughout the year at individual schools.  This includes membership flyers for each individual school at the beginning of the school year, coordinating with Membership Chairs at individual schools, payment options and advertising with district during the school year.
-6.	Fundraising Chairperson shall be responsible for overseeing the fundraising at each particular school or district wide fundraiser, whichever Council or Buidlings decide on.  In addition, the Fundraising Chair will oversee the fundraising person or committee at each Building, coordinate with the district office with regards to the time of said fundraising, and develop correspondence and social media posts for the fundraiser. The chairperson will also be responsible for coordinating all PTO Council fundraisers (e.g. Kalahari, Cavs or Indians game)
-7.	Staff Appreciation Chairperson shall be responsible for organizing and executing the staff appreciation of the Kenston Board of Education offices and the Transportation Department each year.  They will maintain, publish and communicate detailed procedures to Building Staff Appreciation Chairpersons.
+1.	The Care Blue Chairperson shall be responsible for caring for the Kenston community through gestures of recognition or support for others in times of need or crisis. In addition, Care Blue coordinates “New to District” programs and activities. The PTO Council Care Blue Chairperson will coordinate these activities at District level and ensure consistent application of these programs at the Building PTO level. They will maintain, publish and communicate detailed Care Blue procedures to each Building Care Blue Chairpersons.
+2.	The Communications Chairperson shall be responsible for the PTO Website, social media, electronic communications, and all printed communications. The Chairperson shall maintain the PTO homepage and assist the Building Communications Chairpersons with the maintenance of individual building pages as needed. The Chairperson will coordinate communications to the Kenston PTO Community, and assist Building PTOs with their communications as necessary. Communications Chairperson will arrange training and technical support to Building PTOs. They will maintain, publish and communicate detailed Communications procedures to Building Communication Chairpersons.
+3.	The Bomber Hangar Chairperson shall manage all aspects of the Bomber Hangar Spirit Wear Store including, but not limited to, Purchasing, Inventory Management, Pricing, Marketing/Communications, Sales, Operations/Logistics and Volunteers. This includes evaluation of vendor relationships, outside services and sales/inventory systems as needed. The Chairperson will achieve profitability to sustain each year’s merchandise investment as well as maintaining an operating reserve specified by the Council Treasurer. When possible, ensure Building PTO Boards employ Bomber Hangar merchandise for prizes, incentives, staff appreciation, etc. The Chairperson will provide updates on the Bomber Hangar operations, sales and financial status at all PTO Council meetings. They will maintain, publish and communicate detailed Bomber Hangar procedures to Building Chairpersons and volunteers. When revenue exceeds the required reserve and operating levels, the Chair and Treasurer can coordinate disbursements to the individual Building PTOs. Disbursement levels will be based on number of grades per building and building support of Bomber Hangar.
+4.	Directory Chairperson is responsible for the annual creation of a district-wide Parent/Student Directory that contains the address and/or phone number of all students and their families on an opt-out basis. In particular, the chairperson may need to do the following tasks: securing printing services, working with the Fundraising Chair to solicit advertising sponsors, editing spreadsheet data received from the Board Office, communicating with parents regarding information to be printed (as needed), creating and sending invoices to sponsors, receiving and delivering checks from sponsors to PTO Council Treasurer, electronically sending data to the printer, reviewing the directory proof from the printer, organizing volunteers to help with directory distribution, pick up directories from the printer, label and distribute directories to separate buildings and sponsors, create invoice to building PTOs if required, and request PTO Council Treasurer to process payment for directory to the printer.
+5.	Membership Chairperson shall be responsible for overseeing the membership drive throughout the year at individual schools. This includes membership flyers for each individual school at the beginning of the school year, coordinating with Membership Chairs at individual schools, payment options and advertising with district during the school year.
+6.	Fundraising Chairperson shall be responsible for overseeing the fundraising at each particular school or district wide fundraiser, whichever Council or Buidlings decide on. In addition, the Fundraising Chair will oversee the fundraising person or committee at each Building, coordinate with the district office with regards to the time of said fundraising, and develop correspondence and social media posts for the fundraiser. The chairperson will also be responsible for coordinating all PTO Council fundraisers (e.g. Kalahari, Cavs or Indians game)
+7.	Staff Appreciation Chairperson shall be responsible for organizing and executing the staff appreciation of the Kenston Board of Education offices and the Transportation Department each year. They will maintain, publish and communicate detailed procedures to Building Staff Appreciation Chairpersons.
 
 ## PTO COUNCIL COMMITTEES
-PTO Council may enact standing or ad hoc committees by majority vote as deemed necessary.  The committees shall be responsible to the President and PTO Council. Such Committees are expected to have building representation and/or input to reach resolutions. Representation may include the Building President or the Building General Board member most associated with the topic at hand. Input may include emails, phone calls or meeting attendance.
+PTO Council may enact standing or ad hoc committees by majority vote as deemed necessary. The committees shall be responsible to the President and PTO Council. Such Committees are expected to have building representation and/or input to reach resolutions. Representation may include the Building President or the Building General Board member most associated with the topic at hand. Input may include emails, phone calls or meeting attendance.
 
 ## PTO COUNCIL ELECTIONS
 1.	No later than March 1st, the current PTO Council Executive Committee will identify which PTO Council positions will be vacated the subsequent school year and begin seeking nominations for those positions.
@@ -123,7 +123,7 @@ PTO Council may enact standing or ad hoc committees by majority vote as deemed n
 2.	All members of the PTO Executive Committee must have served on the Executive Committee of a Building PTO for at least one term.
 3.	All Committee Chairs must have served on a Building Executive Council for one term or as a Building Committee Chair for at least two years. Those with less than two years experience will be discussed by PTO Council and their eligibility will be determined by vote of the current Council Executive Board.
 
-# LEADERSHIP STRUCTURE:  BUILDING PTO
+# LEADERSHIP STRUCTURE: BUILDING PTO
 
 ## BUILDING PTO ROLE
 The Building PTO plans and executes the PTO activities, events and programs for their Building in support of the PTO mission, in accordance with the by-laws of PTO and in coordination with PTO Council.
@@ -150,16 +150,16 @@ The duties of a Building Executive Committee or General Board member shall inclu
 2.	Abide by PTO Code of Conduct.
 3.	Attend regular and special meetings (arriving promptly and remaining until adjournment) and vote when required.
 4.	Keep a detailed account of duties, responsibilities and recommendations for succeeding members.
-5.	Make progress reports at all board meetings or respond to current inactivity by saying “no report”.   
+5.	Make progress reports at all board meetings or respond to current inactivity by saying “no report”. 
 6.	Answer correspondence promptly including providing committee documentation and keeping complete correspondence files.
 7.	Follow all Treasury policies, including submitting funds for disbursement and proper handling of receipts.
 8.	Upon expiration of the term of office, or in case of resignation, turn over to the President all records, books and other materials pertaining to office without delay, and shall return to the Treasurer, immediately, all funds pertaining to the office.
 
 ## BUILDING PTO EXECUTIVE COMMITTEE
 Each Building PTO Executive Committee shall consist of a President, Vice-President, Treasurer and Secretary.
-1.	President:  The President shall preside over all meetings and serve as a liaison with Building Administration and with PTO Council. The President shall be responsible for ensuring compliance with these PTO by-laws and the PTO Mission within their building.
-2.	Vice-President:  The Vice-President shall assume the duties of the President should he/she be unable to perform the duties. The Vice-President shall assist the President as necessary.
-3.	Treasurer:  The Treasurer shall have full custody of all Building PTO funds; shall keep a full and accurate accounting of receipts and expenditures; maintain a reconciled checkbook, make disbursements based on the approved budget or approved funding requests; and shall sign all checks or vouchers. The Treasurer shall present a financial report to the members of Building PTO at every meeting and as requested by their executive committee or at the request of PTO Council.
+1.	President: The President shall preside over all meetings and serve as a liaison with Building Administration and with PTO Council. The President shall be responsible for ensuring compliance with these PTO by-laws and the PTO Mission within their building.
+2.	Vice-President: The Vice-President shall assume the duties of the President should he/she be unable to perform the duties. The Vice-President shall assist the President as necessary.
+3.	Treasurer: The Treasurer shall have full custody of all Building PTO funds; shall keep a full and accurate accounting of receipts and expenditures; maintain a reconciled checkbook; keep accounting software up-to-date; make disbursements based on the approved budget or approved funding requests; and shall sign all checks or vouchers. The Treasurer shall present a financial report to the Council Treasurer and members of Building PTO at every meeting and as requested by their Executive Committee or at the request of PTO Council.
 4.	The secretary shall be responsible for taking, distributing and amending the minutes of every meeting. Minutes shall be distributed to every Building Board member one week before the following month’s meeting. The Secretary shall be responsible for having the PTO by-laws on hand at all meetings.
 
 ## BUILDING PTO GENERAL BOARD
@@ -182,7 +182,7 @@ Building PTOs shall elect their own Executive Committees. The results of the ele
 2.	At the regular March meeting of the Building PTO and the Preceeding Building's PTO, the open positions will be announced and nominations saught.
 3.	Nominations should be provided to the President. Self-nominations will be accepted. Nominees must be approved by the Building Principal and PTO Council. In addition, the President will contact each nominee to determine their willingness to serve.
 4.	The President shall prepare a printed ballot with all open positions and nominees. This will be distributed to the General Board members prior to the April Building PTO Meeting.
-5.	At the April Building PTO meeting, a secret vote will be held for each open position, regardless to the number of nominees. At the close of the meeting, the ballots shall be counted by the PTO President and School Representative i.e. principal, assistant principal, guidance counselor. The results will be communicated to PTO Council within 24 hours of the meeting.  Ballots must be kept until the end of the subsequent school year.
+5.	At the April Building PTO meeting, a secret vote will be held for each open position, regardless to the number of nominees. At the close of the meeting, the ballots shall be counted by the PTO President and School Representative i.e. principal, assistant principal, guidance counselor. The results will be communicated to PTO Council within 24 hours of the meeting. Ballots must be kept until the end of the subsequent school year.
 
 ## BUILDING PTO BOARD APPOINTMENT
 Each year, the Executive Committee will identify which Board Positions will be vacated the next year and disclose those positions to the current Building Board during a regular meeting, and subsequently collect nominations to fill these positions. The Building Executive Board is responsible for appointing all members of the Building General Board.
@@ -190,41 +190,47 @@ Each year, the Executive Committee will identify which Board Positions will be v
 # FINANCES
 
 ## FUNDRAISING
-The PTO Council and Building PTOs may engage in various fundraising efforts to support operating budgets and/or funding requests made by the school.   
-1.	Any activity or event that results in funds collected and deposited by a Building PTO or PTO Council shall be deemed “fundraising” and is subject to these by-laws.
-2.	Fundraising activities need to be communicated and coordinated between Buildings at PTO Council.  Fundraising updates and results should be shared at PTO Council as part of regular building updates.    Each spring, Building Presidents and PTO Council President should disclose their fundraising plans for the following school year to PTO Council, including tentative dates, formats and funding directions.   Discussion and/or modifications may result.
-3.	Membership enrollment shall be considered a fundraiser and shall be managed according to the “MEMBERSHIP” section of these by-laws.
-4.	Each Building many conduct one annual fundraiser not to exceed two weeks in active student/staff/parent involvement.   All fundraising events/communications need to be approved by the Building Principal.  
-5.	Community Sponsorships may be incorporated into fundraising but must be communicated to other Buildings through PTO Council.
-6.	If an additional financial need arises a building PTO may present the proposed fundraiser to PTO Council for a vote.  Such plans must be confirmed by PTO Council and the Building Principal prior to any activity, preparation or voting at the Building level.   Financial need, funding purpose and current fundraising atmosphere in the District should be considered.
-7.	At the request of the Kenston School District, donations may be accepted in the form of cash, check or donated items but not via web based payment sites.   
-8.	At the request of the Kenston School District, sponsorships may not be referenced on any materials deemed as homework.
+1.	Any activity or event that results in funds collected and deposited into the general account of a Building PTO or PTO Council shall be deemed “fundraising” and is subject to these by-laws.
+2.	Fundraising activities need to be communicated and coordinated through the Council Fundraising Chair. Fundraising updates and results should be shared at PTO Council as part of regular building updates. Each spring, Building Presidents and PTO Council President should disclose their fundraising plans for the following school year to PTO Council, including tentative dates, formats and funding directions. Discussion and/or modifications may result.
+3.	Membership enrollment shall be considered a fundraiser and shall be managed according to the “MEMBERSHIP AND DUES” section of these by-laws.
+4.	In addition to an annual Membership Drive, each Building PTO may conduct one annual fundraiser not to exceed two weeks in active student/staff/parent involvement. All fundraising events/communications need to be approved by the Building Principal.
+5.	Other events that generate income can only be conducted if the net profits are used for a specific Building or District goal that has been documented and communicated prior to the event. Examples include Book Fair, One-School-One Book, etc.
+6.	Passive Fundraising events are allowed, and the proceeds may be desposited into the general fund, if approved by the PTO Council. A passive fundraiser is one in which an opportunity is provided to families, students, and/or staff that may be easily ignored, does not have an in-school component, and does not require PTO volunteers. These type of fundraisers typically are "match" based where some percentage of money spent is then donated to the PTO. Examples of approved passive fundraisers are: Coke Rewards, BoxTops4Education, School Kids supply drive, Kalahari, restaurant match funding.
+7.	Community Sponsorships may be incorporated into fundraising but must be communicated to other Buildings through PTO Council.
+8.	If an additional financial need arises a building PTO may present the proposed fundraiser to PTO Council for a vote. Such plans must be confirmed by PTO Council and the Building Principal prior to any activity, preparation or voting at the Building level. Financial need, funding purpose and current fundraising atmosphere in the District are to be considered.
+10.	At the request of the Kenston School District, sponsorships may not be referenced on any materials deemed as homework.
 
 ## BUDGETS
-Each Building PTO and PTO Council shall be responsible for maintaining a budget, against which regular expenditures are levied.
-1.	Before the close of the school year, the Executive Committee shall develop a draft budget for the following school year.   Prior to the start of the school year, the draft should be discussed, amended and approved at a regular meeting by the corresponding Board per the voting requirements in these by-laws.   Each line item should be reviewed.   Historical data is helpful but should not preclude thoughtful discussion of each program.
-2.	Each event/program or expense category should have a budgeted line item.  Although the individual components of that line do not need to be recorded or approved, the Board should have a general understanding of what types of expenses will be covered by each budget line.   Line items without defined purpose or funding direction are not permitted.   
-3.	Once approved, budget allocations may be drawn upon freely by the corresponding committee without line item approval.   If however, it is discovered that expenditures must exceed budgeted amounts, additional funds may be requested and approved by vote.   Commitments or purchases cannot be made until a vote has taken place.   Each Committee Chair is to review the balance of their budget allocation at each meeting and, if necessary, request additional funds at that time to avoid last minute and/or electronic votes. 
-4.	The current board should leave a cash operating fund on hand for the following year, equal to the amount needed to fund events and programs that occur prior to collection of the major fundraiser.
+The PTO Council and each Building PTO Board shall be responsible for maintaining a budget, against which regular expenditures are levied.
+1. The PTO Council Treasurer will provide a list of Expenses to each Building that are required to be included in the Building Budget. Examples include but are not limited to Directory, Insurance, Bank/Audit Fees, President’s Discretionary Fund, etc.
+2.	Before the close of the school year, the Executive Committee shall develop a draft budget for the following school year. Prior to the start of the school year, the draft should be discussed, amended and approved at a regular meeting by the corresponding Board per the voting requirements in these by-laws. Each line item should be reviewed. Historical data is helpful but should not preclude thoughtful discussion of each program. Each Building budget must then be presented to the Council Treasurer for review and approval.
+3.	Each event/program or expense category should have a budgeted line item. Although the individual components of that line do not need to be recorded or approved, the Board should have a general understanding of what types of expenses will be covered by each budget line. Line items without defined purpose or funding direction are not permitted. 
+5.	Once approved, budget allocations may be drawn upon freely by the corresponding committee without line item approval. If however, it is discovered that expenditures must exceed budgeted amounts, additional funds may be requested and approved by vote. Commitments or purchases cannot be made until a vote has taken place. Each Committee Chair is to review the balance of their budget allocation at each meeting and, if necessary, request additional funds at that time to avoid last minute votes.
+6.	The current board shall leave a cash operating fund on hand for the following year. The exact level of the reserve operating fund to be maintained will be set by the Council Treasurer for each Building during the budgeting process. In general, this value should be equal to the amount needed to fund events and programs that occur prior to collection of the fundraiser.
 
 ## EXPENDITURES
-Cash outlays will be made by the treasurer when accompanied by proper forms (see Appendix) and supporting documentation.   Supporting documentation may include original receipts, signed contracts or funding requests.   When these documents are not available, an expenditure may be made at the treasurer’s discretion, subject to approval by the PTO Council Treasurer.    An expenditure will be granted under any of the following conditions:
-1.	An expense is allocated against a budgeted line, and is less than the remaining budget balance for that line.   The corresponding committee chairperson should submit this expense.
-2.	An expense falls under a budgeted line, there is not enough budget balance remaining for the expense, but a vote by the Board has occurred approving additional funds.   A corresponding committee chairperson should submit this expense.
-3.	A funding request has been submitted and approved.    A funding request form (see Appendix) should be completed by Building or District staff to request financial support for items/programs or services that are not addressed in the PTO Budget.   The funding request should be presented by the requestor and/or the Building President and discussed at a PTO meeting and subjected to vote.   When motioning a vote for a funding request, the Treasurer should be prepared to report on the projected cash surplus or deficit for the year to determine the feasibility of the request.   
-4.	In situations where a fundraiser has netted surplus funds, or the funding direction of a revenue-generating program has not been specifically identified or quantified in the budget approval process, the President may motion for a vote to allocate those funds.    This allocation should be discussed with the Building Staff in advance.  
-5.	If “petty cash” is required to make change at a revenue-generating event, the Treasurer is authorized to provide up to $200 without supporting documentation to the Committee Chair.   The $200 must be returned to the Treasurer within the receipts of the event.
-6.	In an emergency situation, a President may approve an unbudgeted expenditure of up to $100 without a vote of the Board, not to exceed three separate emergencies within a PTO fiscal year.
-7.	Regardless of the above conditions, all expenditures must support the mission of the PTO and be in accordance with these by-laws.
+Cash outlays will be made by the treasurer when accompanied by proper forms and supporting documentation. Supporting documentation may include receipts, signed contracts, invoices, or purchase order. When these documents are not available, an expenditure may be made at the treasurer’s discretion, subject to approval by the PTO Council Treasurer. An expenditure will be granted under any of the following conditions:
+1.	An expense is allocated against a budgeted line, and is less than the remaining budget balance for that line.
+2.	An expense falls under a budgeted line, there is not enough budget balance remaining for the expense, but a vote by the Board has occurred approving additional funds in excess of the amount requested.
+3.	An Outside Funding Request has been submitted and approved. An Outside Funding Request form should be completed by Building or District staff to request financial support for items/programs or services that are not addressed in the PTO Budget. The funding request should be presented by the requestor and/or the Building President and discussed at a PTO meeting and subjected to vote. When motioning a vote for a funding request, the Treasurer should be prepared to report on the projected cash surplus or deficit for the year to determine the feasibility of the request. 
+4.	In situations where a fundraiser has netted surplus funds, the President may motion for a vote to allocate those funds. This allocation should be discussed with the Building Staff in advance. 
+5.	If “petty cash” is required to make change at a revenue-generating event, the Treasurer is authorized to provide up to $300 without supporting documentation to the Committee Chair. The $300 must be returned to the Treasurer within the receipts of the event.
+6.	In a situation where nominal funds are required to be spent without sufficient time to obtain a Board vote, the Building President may approve an expenditure of up to $100. The President must then submit and present a funding request at the next Board meeting along with supporting documentation. This mechanism may only be used once per year per building.
+7.	All expenses for all events must be paid via the allocated Budget/Funding Request as defined above. Personal funds spent in exceedance or in lieu of the Budget are not permitted. 
+8.	Donations of items for specific events are acceptable only when they are announced to/requested from the entire Membership. Donations should not exceed an approximate cash value of $25 per person.
+9.	Regardless of the above conditions, all expenditures must support the mission of the PTO and be in accordance with these by-laws.
+
 
 
 ## AUDITS/INTERNAL CONTROLS:
 1.	The PTO fiscal year shall be July 1 – June 30.
-2.	Each Building and PTO Council’s fiscal accounts shall be examined annually by an auditor chosen by PTO Council.   Accounts shall not be audited by their own Treasurer.   Audits shall include but are not limited to verification of bank balance, adherence to budget or votes, adherence to by-laws, inclusion of proper financial reporting and supporting documentation.
-3.	On a monthly basis, each Treasurer should prepare financial documents for their accounts as prescribed by PTO Council (see Appendix).   These reports must disclose receipts and disbursements made, current status of budget, restricted/reserved funds and cash balance available as verified by a bank statement.    The Building or Council President must validate the bank balance to these financial reports and document validation with a signature.
-4.	Each Treasurer is responsible for maintaining an accurate check signing register with the bank, not to exceed current Treasurer, current President and Treasurer of PTO Council.    
-5.	The Treasurer of PTO Council shall have access to all PTO bank accounts for the purposes of investigating concerns and verifying reporting on an ongoing basis.    PTO Council Executive Committee may commission a special audit of the financial records of any Building PTO if deemed necessary.
-6.	When collecting receipts for any event, a representative of the corresponding committee shall prepare proper documentation for the receipts (see appendix), shall count and double count the receipts, sign off and present the deposit to the Treasurer or secure the deposit in the safe within 48 hours of the event, notifying the Treasurer.   In the event that the receipts exceed $500, the receipts must be double counted by another committee representative.   The Treasurer shall complete a third count of receipts, and may not perform the first or second counts.   
+2.	Each Building and PTO Council’s fiscal accounts shall be examined annually by an auditor chosen by PTO Council. Accounts shall not be audited by their own Treasurer. Audits shall include but are not limited to verification of bank balance, adherence to budget or votes, adherence to by-laws, inclusion of proper financial reporting and supporting documentation.
+3.	On a monthly basis, each Treasurer should prepare financial documents for their accounts as prescribed by PTO Council. These reports must disclose receipts and disbursements made, current status of budget, restricted/reserved funds and cash balance available. All monthly financial reports are to be provided to the Council Treasurer for periodic review to ensure that the reports align with bank records.
+4.	The final report of the year must be signed by the Building President. The Building President is to pay particular attention to the final expenses and budget lines to ensure these are correct and align with expectations. Note that often this final report is made after the final meeting and thus the Treasurer and President must work together to get this report completed.
+5.	Each Treasurer is responsible for reconciling all building transactions against Quickbooks (or other provided accounting software) at least as often as the financial report.
+6.	The PTO Council Treasurer is responsible for maintaining an accurate check signing register with the bank, not to exceed current Building Treasurer(s), current Building President(s), and Treasurer of PTO Council. 
+7.	The Treasurer of PTO Council shall have access to all PTO bank accounts for the purposes of investigating concerns and verifying reporting on an ongoing basis. PTO Council Executive Committee may commission a special audit of the financial records of any Building PTO if deemed necessary.
+8.	When collecting receipts for any event, a representative of the corresponding committee shall prepare proper documentation for the receipts (see appendix), shall count and double count the receipts, sign off and present the deposit to the Treasurer or secure the deposit in the safe within 48 hours of the event, notifying the Treasurer. In the event that the receipts exceed $500, the receipts must be double counted by another committee representative. The Treasurer shall complete a third count of receipts, and may not perform the first or second counts. 
 
 
 # PARLIAMENTARY PROCEDURE
@@ -232,117 +238,44 @@ Cash outlays will be made by the treasurer when accompanied by proper forms (see
 ## MEETINGS
 Regular Meetings of each Building PTO and PTO Council will be held during the school year according to the below schedule, which may be altered on an exception basis as needed:
 1.	PTO Council – First Friday of every month, 9:00 a.m.
-2.	Timmons – Second Wednesday of every month, 9:30 a.m.
-3.	Kenston Intermediate – Third Wednesday of every month, 9:30 a.m.
+2.	Timmons Elementary School – Second Wednesday of every month, 9:30 a.m.
 4.	Kenston Middle School – Second Thursday of every month, 9:30 a.m.
-5.	Kenston High School – Second Wednesday of every month, 12:45 p.m.
-6.	The dates and times of these meetings are to be set by the Building or PTO Council President prior to the start of the school year.  
-7.	All meeting procedures shall be governed by these by-laws, with Roberts Rules of Order.
-8.	Building PTO Meetings shall be open to all Kenston parents/guardians, and staff for that building.   PTO Council Meetings are open only to the PTO Council members and District staff, building administrators.   The PTO Council President may extend invitations to other attendees on an as needed basis.
-9.	The Council or Building President may call a special meeting of the Executive Committee or of the Board, providing advance notice to all its members.
+5.	Kenston High School – Second Wednesday of every month, 9:45 a.m.
+6.	The dates and times of these meetings are to be set by the Building or PTO Council President prior to the start of the school year. 
+7.	All meeting procedures shall be governed by these by-laws, using Robert's Rules of Order.
+8.	The meeting agenda must be distributed at least two days prior to the meeting and is to include the text of all funding requests and a description of each item up for vote.
+9.	Building PTO Meetings shall be open to all Kenston parents/guardians, and staff for that building. The Building PTO President may extend invitations to other attendees on an as-needed basis.
+10.	PTO Council Meetings are open only to the PTO Council members and District staff, building administrators. The PTO Council President may extend invitations to other attendees on an as-needed basis.
+11.	The Council or Building President may call a special meeting of the Executive Committee or of the Board, providing advance notice to all its members.
 
 ## VOTING
-10.	A vote shall be called, according to Robert’s Rules, for any transaction of business including but not limited to, budget approval, funding requests, budget amendments, officer elections, amendments to by-laws, calendar approval, elimination or addition of events, elimination or addition of board positions, changes to board member duties.
-11.	Voting members of PTO Council shall include the Executive Committee (with exception of the president), members-at-large, E-Comm chair, Care Blue chair and all Building Presidents.   If a building has a Co/Vice-President, the building shall have only one vote.   In the absence of a Building President, the Co/Vice-President may vote.
-12.	Voting members of Building PTO Boards shall include the Executive Committee and all board members, with the exception of the President.   Members holding multiple board positions shall be limited to one vote.
-13.	A vote will generally be taken with a show of hands, tabulated by the President but may be done by written ballot for officer elections or other special circumstances.   
-14.	In the event of a tie vote, the President may vote in order to eliminate the tie.
-15.	The majority of the board shall constitute a quorum for the transaction of business with a majority vote of those in attendance necessary to approve a motion.   Majority shall be calculated based on number of individuals serving on the published board roster, regardless of how many board positions an individual holds.
-    a)	In a case where a quorum is not met at a regularly scheduled meeting, a motion may be put to vote if the financial impact is less than $250.   A majority vote of the voters in attendance is required for passage.
-    b)	In a case when a quorum is not met at a meeting, a motion may be discussed among those in attendance and subsequently voted on electronically, in a format which allows public view of votes and comments.   All voting board members will be asked to participate in the electronic vote, thereby requiring a majority of the voting board for passage of the motion.   
-16.	When possible, motions to vote should be announced prior to the meeting.
-17.	In the event of an emergency motion where the timing is such that resolution is needed prior to the next meeting, an electronic vote may be called at the discretion of the President.   A majority vote of the board will be required.  
-18.	The results of all voting shall be final and adhered to by all Board members until another vote is called.   The results of all votes shall be published in the minutes.
+1.	A vote shall be called, according to Robert’s Rules, for any transaction of business including but not limited to, budget approval, funding requests, budget amendments, officer elections, amendments to by-laws, calendar approval, elimination or addition of events, elimination or addition of board positions, changes to board member duties. Votes should be discussed with the executive board prior to submitting to a vote of the Board members. The Executive Committee should be in agreement whether something needs to be presented to Board members. 
+2.	Voting members of PTO Council shall include the Executive Committee (with exception of the president), the Committee Chairs, and all Building Presidents. If a building has a Vice-President in attendance, the building shall have only one vote. In the absence of a Building President, the Vice-President may vote.
+3.	Voting members of Building PTO Boards shall include the Executive Committee and all General Board members, with the exception of the President. Members holding multiple board positions shall be limited to one vote.
+4.	A vote will generally be taken with a show of hands, tabulated by the President but may be done by written ballot for officer elections or other special circumstances.
+5.	In the event of a tie vote, the President may vote in order to eliminate the tie.
+6.	The majority of the board shall constitute a quorum for the transaction of business with a majority vote of those in attendance necessary to approve a motion. Majority shall be calculated based on number of individuals serving on the published board roster, regardless of how many board positions an individual holds.
+ a)	In a case where a quorum is not met at a regularly scheduled meeting, a motion may be put to vote if the financial impact is less than $250. A majority vote of the voters in attendance is required for passage.
+ b) In a case when a quorum is not met at a meeting, a motion may be discussed among those in attendance and subsequently voted on electronically, in a format which allows public view of votes and comments. All voting board members will be asked to participate in the electronic vote, thereby requiring a majority of the voting board for passage of the motion. 
+7.	When possible, motions to vote should be announced prior to the meeting.
+8.	In the event of an emergency motion where the timing is such that resolution is needed prior to the next meeting, an electronic vote may be called at the discretion of the President. A majority vote of the board will be required.
+9.	The results of all voting shall be final and adhered to by all Board members until another vote is called. The results of all votes shall be published in the minutes.
  
 
-## AFFILIATES:
-1.	It shall be the policy of the PTO to aid and/or sponsor non-partisan organizations within the community whose purpose is to assist in the development and training of children in the community, with President and Council approval.   
+## AFFILIATES
+1.	It shall be the policy of the PTO to aid and/or sponsor non-partisan organizations within the community whose purpose is to assist in the development and training of children in the community, with President and Council approval.
 2.	The PTO Council and Building PTOs shall neither verbally nor financially aid or sponsor any political issues or candidates.
 3.	The name of the organization or the names of any members in their official capacities shall not be used in any connection with a commercial concern or with any partisan interest or for any purpose not appropriately related to promotion of the Mission Statement of the organization.
 
+## OFFICE REMOVAL
+1.	Any elected officer may be removed from office by a three-quarter affirmative vote of the Board conducted by secret ballot. Ballots can not be counted by the officer up for removal.
+2.	A motion to remove a specific officer may be raised no more than once per meeting.
+3.	Members of a Building PTO Board can not move to recall an officer outside of that specific Building.
+4.	PTO Council may remove officers from any Building PTO Board.
+
+
 ## AMENDMENTS
-Concerns regarding amendments to these by-laws shall be brought to the attention of the PTO Council Executive Committee who will review said concerns and place the issue on the agenda of the next scheduled PTO Council meeting.    
-1.	Amendments to these by-laws shall be approved by a majority vote of PTO Council based on the voting policy in these by-laws.   
+Concerns regarding amendments to these by-laws shall be brought to the attention of the PTO Council Executive Committee who will review said concerns and place the issue on the agenda of the next scheduled PTO Council meeting. 
+1.	Amendments to these by-laws shall be approved by a majority vote of PTO Council based on the voting policy in these by-laws. 
 2.	Individual Building PTO Boards may recommend changes to PTO Council, but may not amend these by-laws.
-3.	Building PTO’s may request amendments to building-specific segments of these by-laws, such as board positions or meeting times.    Prior to requesting the amendment to PTO Council for approval, the amendment should pass a vote of the Building PTO.
- 
-
-# APPENDIX
-
-## APPENDIX A – KENSTON HIGH SCHOOL PTO BOARD
-
-Beautification Chair,
-Bomber Bash Chair,
-Care Blue Chair,
-Celebrate Blue Chair,
-Directory Chair,
-E-Communications Chair,
-Hospitality Chair,
-Senior Breakfast Chair,
-Staff Appreciation Chair,
-Volunteer Coordinator Chair,
-Website Chair,
-After Prom Chair,
-Silver Bells Chair
-
-## APPENDIX B – KENSTON MIDDLE SCHOOL PTO BOARD
-
-Beautification Chair,
-Bomber Hangar Chair,
-Book Fair Chair,
-Care Blue Chair,
-Dance Concessions Chair,
-Fundraising Chair,
-Hospitality Chair,
-Skate Night Chair,
-Staff Appreciation Chair,
-Volunteers/Membership Chair,
-Website/E-Communications Chair,
-8th Grade Party Chair
-
-## APPENDIX C – KENSTON INTERMEDIATE SCHOOL PTO BOARD
-
-Head Room Parents,
-Membership & Volunteers Chair,
-Runathon Chair,
-Beautification Chair,
-Staff Appreciation Chair,
-E-Comm/Website Chair,
-Points Program Chair,
-Invention Convention Chair,
-Service Project Chair,
-Care Blue Chair,
-Health and Wellness Chair,
-Lost & Found Chair,
-Library Volunteers Chair,
-Book Fair Chair,
-Playground Chair,
-Bomber Hangar Chair,
-Breakfast & Books Chair,
-Calendar Chair,
-Family Events Chair,
-Monster Mash Bash Chair,
-End of Year Party Chair,
-Donation Chair
- 
-## APPENDIX D – TIMMONS ELEMENTARY SCHOOL PTO BOARD
-
-Beautification Chair,
-Book Fair Chair,
-Breakfast and Books Chair,
-Care Blue Chair,
-E-Comm/Website Chair,
-Family Events Chair,
-Hospitality Chair,
-Fundraising Chair,
-One School One Book Chair,
-Points Program Chair,
-Grade Reps,
-Library Volunteers Chair,
-Lost and Found Chair,
-Membership/Volunteers Chair,
-Playground Chair,
-Play Blue Chair,
-Service Project Chair,
-Silver Bells Cookie Sale Chair,
-Staff Appreciation Chair
+3.	Building PTO’s may request amendments to building-specific segments of these by-laws, such as board positions or meeting times. Prior to requesting the amendment to PTO Council for approval, the amendment should pass a vote of the Building PTO.
