@@ -1,8 +1,10 @@
 # Kenston Parent Teacher Organization - BY-LAWS
 
 Presented by PTO Council
-March 2024
-February 2018
+
+Revision History
+ * March 2024
+ * February 2018
 
 <Table of Contents>
 
