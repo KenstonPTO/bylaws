@@ -214,7 +214,6 @@ The PTO Council and each Building PTO Board shall be responsible for maintaining
 Cash outlays will be made by the treasurer when accompanied by proper forms and supporting documentation. Supporting documentation may include receipts, signed contracts, invoices, or purchase order. When these documents are not available, an expenditure may be made at the treasurer’s discretion, subject to approval by the PTO Council Treasurer. An expenditure will be granted under any of the following conditions:
 1.	An expense is allocated against a budgeted line, and is less than the remaining budget balance for that line.
 2.	An expense falls under a budgeted line, there is not enough budget balance remaining for the expense, but a vote by the Board has occurred approving additional funds in excess of the amount requested.
-3.	An Outside Funding Request has been submitted and approved. An Outside Funding Request form should be completed by Building or District staff to request financial support for items/programs or services that are not addressed in the PTO Budget. The funding request should be presented by the requestor and/or the Building President and discussed at a PTO meeting and subjected to vote. When motioning a vote for a funding request, the Treasurer should be prepared to report on the projected cash surplus or deficit for the year to determine the feasibility of the request. 
 4.	In situations where a fundraiser has netted surplus funds, the President may motion for a vote to allocate those funds. This allocation should be discussed with the Building Staff in advance. 
 5.	If “petty cash” is required to make change at a revenue-generating event, the Treasurer is authorized to provide up to $300 without supporting documentation to the Committee Chair. The $300 must be returned to the Treasurer within the receipts of the event.
 6.	In a situation where nominal funds are required to be spent without sufficient time to obtain a Board vote, the Building President may approve an expenditure of up to $100. The President must then submit and present a funding request at the next Board meeting along with supporting documentation. This mechanism may only be used once per year per building.
@@ -222,6 +221,19 @@ Cash outlays will be made by the treasurer when accompanied by proper forms and 
 8.	Donations of items for specific events are acceptable only when they are announced to/requested from the entire Membership. Donations should not exceed an approximate cash value of $25 per person.
 9.	Regardless of the above conditions, all expenditures must support the mission of the PTO and be in accordance with these by-laws.
 
+## OUTSIDE FUNDING REQUESTS
+Any member of the Kenston community can request the PTO to fund a specific request outside of the existing budget by submitting an Outside Funding Request to the appropriate Building PTO or to PTO Council.
+
+The PTO Council Treasurer is responsible for developing the process by which Outside Funding Requests are handled wihtin the folloowing constraints and goals.
+1. Efforts should be made to provide the Outside Funding Request form in electronic form (e.g. Google Form, fillable PDF).
+2. The Outside Funding Request much include the following information: X, Y, Z.
+3. Requests of a specific Building PTO are to be sent to both the Building PTO President and Building Principal (or their designee).
+4. All Outside Funding Requests require approval by a District Representative to attest to the request being in line with District policies and needs.
+5. The content of the Outside Funding Request is to be sent to the Board prior to the next Regular Meeting.  In cases where the Requested need is urgent, the content can be distributed electronically and then two days later an electronic vote held.
+6. At the Regular Meeting, the Funding Request is to be presented by the Requestor and/or the Building President.  The Board will then have the opportunity to ask questions of the presentor.
+7. Prior to any vote on a funding request, the Treasurer must report on the projected cash surplus or deficit for the year to determine the feasibility of the request.
+8. Voting will follow the rules laid out in these by-laws.
+9. For any approved Outside Funding Request, the Treasurer will work with the Requestor to complete the request in accordance with the EXPENDITURES section of these by-laws.
 
 
 ## AUDITS/INTERNAL CONTROLS:
