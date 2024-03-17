@@ -1,56 +1,28 @@
 # Kenston Parent Teacher Organization - BY-LAWS
 
 Presented by PTO Council
+March 2024
 February 2018
 
-[NOTE: This should NOT be considered the authoratative version of the 2018 By-Laws.  Please see the Word doc for those]
-
-* [ORGANIZATION](#organization)
-   * [NAME](#name)
-   * [MISSION STATEMENT](#mission-statement)
-   * [MEMBERSHIP AND DUES](#membership-and-dues)
-   * [PTO CODE OF CONDUCT](#pto-code-of-conduct)
-* [LEADERSHIP STRUCTURE - PTO COUNCIL](#leadership-structure---pto-council)
-   * [PTO COUNCIL ROLE](#pto-council-role)
-   * [PTO COUNCIL MEMBERSHIP](#pto-council-membership)
-   * [PTO COUNCIL DUTIES](#pto-council-duties)
-   * [PTO COUNCIL APPOINTMENT](#pto-council-appointment)
-   * [PTO COUNCIL EXECUTIVE COMMITTEE](#pto-council-executive-committee)
-   * [PTO COUNCIL CHAIRPERSON DUTIES](#pto-council-chairperson-duties)
-   * [PTO COUNCIL COMMITTEES](#pto-council-committees)
-* [LEADERSHIP STRUCTURE:  BUILDING PTO BOARD](#leadership-structure--building-pto-board)
-   * [BUILDING PTO BOARD ROLE](#building-pto-board-role)
-   * [BUILDING PTO BOARD MEMBERSHIP](#building-pto-board-membership)
-   * [BUILDING PTO BOARD DUTIES](#building-pto-board-duties)
-   * [BUILDING PTO EXECUTIVE COMMITTEE APPOINTMENT](#building-pto-executive-committee-appointment)
-   * [BUILDING PTO EXECUTIVE COMMITTEES](#building-pto-executive-committees)
-   * [BUILDING PTO BOARD APPOINTMENT](#building-pto-board-appointment)
-   * [BOARDS](#boards)
-   * [BUILDING PTO COMMITTEES](#building-pto-committees)
-* [FINANCES](#finances)
-   * [FUNDRAISING](#fundraising)
-   * [BUDGETS](#budgets)
-   * [EXPENDITURES](#expenditures)
-   * [AUDITS/INTERNAL CONTROLS:](#auditsinternal-controls)
-* [PARLIAMENTARY PROCEDURE](#parliamentary-procedure)
-   * [MEETINGS](#meetings)
-   * [VOTING](#voting)
-   * [AFFILIATES:](#affiliates)
-   * [AMENDMENTS](#amendments)
-* [APPENDIX](#appendix)
-   * [APPENDIX A – KENSTON HIGH SCHOOL PTO BOARD](#appendix-a--kenston-high-school-pto-board)
-   * [APPENDIX B – KENSTON MIDDLE SCHOOL PTO BOARD](#appendix-b--kenston-middle-school-pto-board)
-   * [APPENDIX C – KENSTON INTERMEDIATE SCHOOL PTO BOARD](#appendix-c--kenston-intermediate-school-pto-board)
-   * [APPENDIX D – TIMMONS ELEMENTARY SCHOOL PTO BOARD](#appendix-d--timmons-elementary-school-pto-board)
-
+<Table of Contents>
 
 # ORGANIZATION
 
 ## NAME
-The name of this association shall be the Kenston Parent Teacher Organization (Kenston PTO).  Kenston PTO is comprised of PTO Council and all building PTOs in the Kenston Local School District including, but not limited to, Kenston High School, Kenston Middle School, Kenston Intermediate School and Timmons Elementary School. Kenston PTO hereinafter will be referred to as PTO.
+The name of this association shall be the Kenston Parent Teacher Organization (Kenston PTO).
 
 ## MISSION STATEMENT
-Encourage and enhance the education and welfare of the students of Kenston Local School District.   Provide a program of value for parents, teachers and school administration, addressing school needs not provided for in the school budget, which shall develop a unified effort in securing this goal.  
+Our mission is to encourage and enhance the education and welfare of the students of the Kenston Local School District.  We provide a program of value for parents, teachers, and the school administration. We work to address school needs that are not provided for in the school budget.
+
+## STRUCTURE
+Kenston PTO is comprised of a PTO Council and a Building specific PTO for each school in the Kenston Local School District.  Kenston PTO hereinafter will be referred to as PTO.
+
+The PTO Council governs and coordinates all Building PTOs in the Kenston Local School District in an effort to support not only the individual PTOs, but the Kenston Local School District as a whole. 
+
+Each Building PTO plans and executes the PTO activities, events, and programs for their Building in support of the PTO mission in accordance with the by-laws of PTO and with the guidance of the PTO Council. Each Building PTO is to be structured as follows:
+1. A Building Executive Committee - lead the Building PTO, act as liason with Building Administration and PTO Council, appoint the Building General Board.
+3. A Building General Board - oversee committees to develop, plan, and execute the Building PTO activities.
+4. All Building PTO Members - serve on committees, volunteer to help execute activites.
 
 ## MEMBERSHIP AND DUES
 Membership will be offered to all parents, guardians, teachers and administrative staff in the Kenston Local School District
@@ -59,70 +31,92 @@ Membership will be offered to all parents, guardians, teachers and administrativ
 3.	Every member of the PTO is entitled to all benefits of such membership.
 4.	Only members of the PTO shall be eligible to serve in any of its positions.
 5.	The PTO shall conduct an annual enrollment of members through its buildings, but persons may be admitted to membership at any time.
-6.	Each member of the PTO shall pay annual dues.   The amount of annual dues shall be $6 per family, per building, per year.
+6.	Each member of the PTO shall pay annual dues. The cost of annual dues shall be set and published for the subsequent school year after a vote of the PTO Council.  Dues will be levied on a per family, per building, per year basis.
 
 ## PTO CODE OF CONDUCT
-The PTO Code of Conduct shall apply to all officers, board members and volunteers.
+The PTO Code of Conduct shall apply to all members.
 1.	Consistently display high personal standards and professional ethics.
-2.	Respect others in all interactions and display a favorable image when representing PTO.   Image is displayed through words, actions, behavior and social media communication.
-3.	Abstain from drinking or being under the influence of alcohol while attending PTO sponsored events where Kenston students are present.
+2.	Respect others in all interactions and display a favorable image when representing PTO.   Image is displayed through words, actions, behavior, and social media communication.
+3.	Abstain from drinking or being under the influence of alcohol or other drugs while attending PTO sponsored events where Kenston students are present.
 4.	Refrain from personal attack or harassment, whether visual, verbal or physical on another person.
-5.	Protect members’ privacy by not allowing the distribution of membership lists, emails, addresses to outside interests.
+5.	Protect members’ privacy by not allowing the distribution of membership lists, emails, addresses or other personal information to outside interests.
 6.	Refrain from using your PTO position to forward personal interests including staff relationships or business contacts.
 7.	Observe confidentiality in respect to all sensitive information gained through your participation as a PTO member.
 8.	Perform all the duties of your position as outlined in the by-laws, in the best interest of the PTO while also following the direction of School Administration.
-9.	Failure to abide by the PTO Code of Conduct and Kenston Local School District Code of Conduct will result in review by the Building PTO Executive Board and/or PTO Council and Building Administration as needed, and possible suspension or dismissal pending outcome.
+
+Failure to abide by the PTO Code of Conduct or the Kenston Local School District Code of Conduct will result in review by the Building PTO Executive Board and/or PTO Council and Building Administration as needed, with possible suspension or dismissal pending outcome.
 
 # LEADERSHIP STRUCTURE - PTO COUNCIL
 
 ## PTO COUNCIL ROLE
-The PTO Council governs and unifies all Building PTOs in the Kenston Local School District in an effort to support not only the individual PTOs, but the Kenston Local School District as a whole.
+The PTO Council governs and coordinates all Building PTOs in the Kenston Local School District to support not only the individual Building PTOs, but the Kenston Local School District as a whole.
 1.	PTO Council maintains, publishes and amends by-laws and ensures that all Building PTOs adhere to them. 
-2.	PTO Council monitors the appointment of all executive boards.
-3.	PTO Council ensures that the activities of all Buildings support the well-being of the overall organization and the mission of the PTO.
+2.	PTO Council monitors and approves the appointment of all Building Executive Committees.
+3.	PTO Council ensures that the activities of all Building PTOs support the well-being of the overall organization and the mission of the PTO.
 
-## PTO COUNCIL MEMBERSHIP
-PTO Council is a Board consisting of the Executive Committee (President, Vice-President, Treasurer and Secretary), up to four members-at-large, all Building Presidents, Vice-Presidents, the E-Communications Chairperson, the Care Blue Chairperson, the Bomber Hangar Chairperson, all Principals, all Assistant Principals, the District Superintendent, Assistant Superintendents and the Community Relations Director.
+## PTO COUNCIL ORGANIZATION
+PTO Council is a board consisting of an Executive Committee (President, Vice-President, Treasurer and Secretary), all Building PTO Presidents and Vice-Presidents, the Chairs of all PTO Council Committees, all Principals, all Assistant Principals, the District Superintendent, Assistant Superintendents and the Kenston Board of Education Community Relations Director.
 
 ## PTO COUNCIL DUTIES
-The duties of a PTO Council Board member shall include, but not be limited to:
-1.	Be familiar with the PTO by-laws.
+The duties of a PTO Council member shall include, but not be limited to:
+1.	Have read and have an operational understaning of the PTO by-laws.
 2.	Abide by PTO Code of Conduct.
 3.	Attend regular and special meetings (arriving promptly and remaining until adjournment) and vote when required.
 4.	Keep a detailed account of duties, responsibilities and recommendations for succeeding board members.
-5.	If chairing a committee, make progress reports at all board meetings or respond to current inactivity by saying “no report”.   
+5.	If chairing a committee, make progress reports at all meetings or respond to current inactivity by saying “no report”.   
 6.	Answer correspondence promptly including providing committee documentation and keeping complete correspondence files.
 7.	Follow all Treasury policies, including submitting funds for disbursement and proper handling of receipts.
-8.	Participate on at least one PTO Council Standing or Ad Hoc Committee and/or take the lead on at least one PTO Council sponsored program or event (with the exception of the Building Presidents and Vice Presidents).
-9.	All PTO Council members are encouraged to attend at least one Kenston Board of Education meeting per year.
-10.	Assume their official duties following the close of the final meeting of the preceding school year, with the exception of the Treasurer who will assume their duties at the close of the annual audit.
-11.	Upon expiration of the term of office, or in case of resignation, turn over to the President all records, books and other materials pertaining to office without delay, and shall return to the Treasurer, immediately, all funds pertaining to the office.
+8.	All PTO Council members (with the exception of Building Presidents and Vice Presidents) are required to attend at least one Kenston Board of Education meeting per year and provide a report to the Council President afterwards.
+9.	All PTO Council members must be a member of at least on Building PTO General Board or be an active committee member in at least one Building PTO.
+10.	All PTO Council members are encouraged to attend at least one Kenston Board of Education meeting per year.
+11.	Assume their official duties following the close of the final meeting of the preceding school year, with the exception of the Treasurer who will assume their duties at the close of the annual audit.
+12.	Upon expiration of the term of office, or in case of resignation, turn over to the President all records, books and other materials pertaining to office without delay, and shall return to the Treasurer, immediately, all funds pertaining to the office.
 
-## PTO COUNCIL APPOINTMENT
-1.	Each January, the Current Executive Committee will identify which PTO Council positions will be vacated the subsequent school year and seek nominations for those positions.
-2.	Current PTO Council members in good standing, including Outgoing Building Presidents, have the first right of refusal to any open positions.  
-3.	Once the status of all current PTO Council Members has been resolved, the Current PTO Council Executive Committee shall contact eligible candidates in February and March to seek nominations for remaining positions, if any.  Interested individuals will present an application (see Appendix) and a letter of recommendation to PTO Council by April 1.
-4.	At the regular April meeting, PTO Council will hold a vote for vacated Executive Committee positions and for new members.   Voting will be held regardless of the number of nominees per position.  Voting will be completed by written ballot and counted privately by the current President and the Superintendent or other District designee.  
-5.	 The President of PTO Council shall have been a member of the PTO Council for at least one year prior to being appointed.
-6.	The PTO Council President, Vice-President, Secretary, Treasurer, the Care Blue Chairperson and At-Large members must have served on the Executive Committee of a Building PTO for at least one year.
-7.	The E-Communications Chair and the Bomber Hangar chair must have served on the Executive Committee of a Building PTO for at least one year or must have served as the E-Communications Chair or Bomber Hangar chair at a Building PTO for at least 2 years.
+## PTO COUNCIL TERM-OF-OFFICE
+Each officer in the PTO Council will have a one year term. Transitions take effect following the close of the final regular PTO Council meeting of the school year for all positions except for Treasurer. Council Treasurer will assume their duties at the close of the annual audit.
+
+## PTO COUNCIL TERM LIMITS
+The PTO Council President is limited to no more than two consecutive terms, unless approved by PTO Council. No other position within PTO Council has a restriction on the number of terms.
 
 ## PTO COUNCIL EXECUTIVE COMMITTEE
-PTO Council shall consist of the Executive Committee, consisting of a President, Vice-President, Treasurer and Secretary.    
-1.	President:  The President shall preside over all meetings and serve as a coordinator and liaison with Building Administration and with PTO Council.   The President shall be responsible for ensuring compliance with these PTO by-laws and the PTO Mission by PTO Council and Building PTO’s. The president’s term is limited to no more than two consecutive years, unless approved by PTO Council.
+The PTO Council Executive Committee shall consist of a President, Vice-President, Treasurer and Secretary.    
+1.	President:  The President shall preside over all meetings and serve as a liaison between the District Administration and PTO Council. The President shall be responsible for ensuring compliance with these PTO by-laws and the PTO Mission.
 2.	Vice-President:  The Vice-President shall assume the duties of the President should he/she be unable to perform the duties.   The Vice-President shall assist the President as necessary.
-3.	Treasurer:  The Treasurer shall have full custody of all PTO Council funds; shall keep a full and accurate accounting of receipts and expenditures; maintain a reconciled checkbook, make disbursements based on the approved budget or approved funding requests; and shall sign all checks or vouchers.   The Treasurer shall present a financial report to the members of PTO Council at every meeting and as requested by the PTO Council Executive Committee.   Additionally, the Treasurer of PTO Council shall oversee compliance to the Treasury section of these by-laws by each building, shall provide annual training to each Building Treasurer, and shall oversee audits of each Building’s accounts as needed, at least once annually.
-4.	Secretary:  The Secretary shall be responsible for taking, distributing and amending the minutes of every PTO Council meeting.   Minutes shall be sent to the PTO Council President for distribution to every PTO Council Board member one week before the following month’s meeting.   In addition, the Secretary shall produce “talking points” from the monthly PTO Council meeting and publish them to Building Presidents so they may provide a Council update at their next meeting.  The Secretary shall be responsible for having the PTO by-laws on hand at all meetings.
-5.	Change that no one voted for!
+3.	Treasurer:  The Treasurer shall have full custody of all PTO Council funds; shall keep a full and accurate accounting of receipts and expenditures; maintain a reconciled checkbook, make disbursements based on the approved budget or approved funding requests; and shall sign all checks or vouchers. The Treasurer shall present a financial report to the members of PTO Council at every meeting and as requested by the PTO Council Executive Committee.   Additionally, the Treasurer of PTO Council shall oversee compliance to the Treasury section of these by-laws by each building, shall provide annual training to each Building Treasurer, and shall oversee audits of each Building’s accounts as needed, at least once annually.
+4.	Secretary:  The Secretary shall be responsible for taking, distributing and amending the minutes of every PTO Council meeting. The Secretary shall be responsible for having the PTO by-laws on hand at all meetings.
 
-## PTO COUNCIL CHAIRPERSON DUTIES
-1.	The Care Blue Chairperson shall be responsible for caring for the school community through gestures of recognition, or support for others in times of need or crisis.  In addition, Care Blue coordinates “New to District” programs and activities.  The PTO Council Care Blue Chairperson will coordinate these activities at District level and ensure consistent application of these programs at the Building PTO level.   Maintain, publish and communicate detailed Care Blue procedures to Building Chairpersons.  
-2.	The E-Communications Chairperson shall be responsible for the PTO Website and PTO electronic communications.   The Chairperson shall maintain the PTO homepage and assist the Building E-Communications Chairpersons with the maintenance of individual building pages as needed.    The Chairperson will coordinate electronic communications (e-blasts) to the Kenston PTO Community, and assist Building PTO’s with their electronic communications as necessary.   E-Communications Chairperson will arrange training and technical support to Building PTO’s.   Maintain, publish and communicate detailed E-Communications procedures to Building Chairpersons.
-3.	The Bomber Hangar Chairperson shall manage all aspects of the Bomber Hangar Spirit Wear Store including, but not limited to, Purchasing, Inventory Management, Pricing, Marketing/Communications, Sales, Operations/Logistics and Volunteers.  This includes evaluation of vendor relationships, outside services and sales/inventory systems as needed.  The Chairperson will achieve profitability in order to sustain each year’s merchandise investment, plus contribute income to PTO Council for its needs.   When possible, ensure Building PTO Boards employ Bomber Hangar merchandise for prizes, incentives, staff appreciation, etc. The Chairperson will provide updates on the Bomber Hangar operations, sales and financial status at monthly PTO Council meetings.   Each building will provide a Building Bomber Hangar Chairperson to work in conjunction with the PTO Council Bomber Hangar Chairperson to fulfill these responsibilities.    Maintain, publish and communicate detailed Bomber Hangar procedures to Building Chairpersons and volunteers.
-4.	At-Large Members shall serve on PTO Committees and/or coordinate District programs/initiatives as needed.
+### Duties of the Executive Committee
+1.  At least one member of the Executive Committee is required to attend the first meeting of each Building PTO Board to explain the role of Council, recruit members for Council committees, and explain the PTO Mission.
+2.  Meet as needed to support and ensure the smooth operation of the PTO Council.
+
+## PTO COUNCIL COMMITTEE CHAIRPERSON
+The function of the PTO Council Committee Chairs is to oversee a Committee to provide services to either the District or that span across multiple Buildings. It is the responsibility of the Committee Chair to seek Committee participation from all the Building PTO members.  The Chair will maintain a document describing the details of their role in order to facilitate transitions to future Chairs. Particular duties of each Chair are detailed below.
+
+1.	The Care Blue Chairperson shall be responsible for caring for the Kenston community through gestures of recognition or support for others in times of need or crisis.  In addition, Care Blue coordinates “New to District” programs and activities.  The PTO Council Care Blue Chairperson will coordinate these activities at District level and ensure consistent application of these programs at the Building PTO level. They will maintain, publish and communicate detailed Care Blue procedures to each Building Care Blue Chairpersons.
+2.	The Communications Chairperson shall be responsible for the PTO Website, social media, electronic communications, and all printed communications. The Chairperson shall maintain the PTO homepage and assist the Building Communications Chairpersons with the maintenance of individual building pages as needed. The Chairperson will coordinate communications to the Kenston PTO Community, and assist Building PTOs with their communications as necessary.  Communications Chairperson will arrange training and technical support to Building PTOs. They will maintain, publish and communicate detailed Communications procedures to Building Communication Chairpersons.
+3.	The Bomber Hangar Chairperson shall manage all aspects of the Bomber Hangar Spirit Wear Store including, but not limited to, Purchasing, Inventory Management, Pricing, Marketing/Communications, Sales, Operations/Logistics and Volunteers. This includes evaluation of vendor relationships, outside services and sales/inventory systems as needed.  The Chairperson will achieve profitability to sustain each year’s merchandise investment as well as maintaining an operating reserve specified by the Council Treasurer. When possible, ensure Building PTO Boards employ Bomber Hangar merchandise for prizes, incentives, staff appreciation, etc. The Chairperson will provide updates on the Bomber Hangar operations, sales and financial status at all PTO Council meetings. They will maintain, publish and communicate detailed Bomber Hangar procedures to Building Chairpersons and volunteers. When revenue exceeds the required reserve and operating levels, the Chair and Treasurer can coordinate disbursements to the individual Building PTOs. Disbursement levels will be based on number of grades per building and building support of Bomber Hanger.
+4.	Directory Chairperson is responsible for the annual creation of a district-wide Parent/Student Directory that contains the address and/or phone number of all students and their families on an opt-out basis.  In particular, the chairperson may need to do the following tasks: securing printing services, working with the Fundraising Chair to solicit advertising sponsors, editing spreadsheet data received from the Board Office, communicating with parents regarding information to be printed (as needed), creating and sending invoices to sponsors, receiving and delivering checks from sponsors to PTO Council Treasurer, electronically sending data to the printer, reviewing the directory proof from the printer, organizing volunteers to help with directory distribution, pick up directories from the printer, label and distribute directories to separate buildings and sponsors, create invoice to building PTOs if required, and request PTO Council Treasurer to process payment for directory to the printer.
+5.	Membership Chairperson shall be responsible for overseeing the membership drive throughout the year at individual schools.  This includes membership flyers for each individual school at the beginning of the school year, coordinating with Membership Chairs at individual schools, payment options and advertising with district during the school year.
+6.	Fundraising Chairperson shall be responsible for overseeing the fundraising at each particular school or district wide fundraiser, whichever Council or Buidlings decide on.  In addition, the Fundraising Chair will oversee the fundraising person or committee at each Building, coordinate with the district office with regards to the time of said fundraising, and develop correspondence and social media posts for the fundraiser. The chairperson will also be responsible for coordinating all PTO Council fundraisers (e.g. Kalahari, Cavs or Indians game)
+7.	Staff Appreciation Chairperson shall be responsible for organizing and executing the staff appreciation of the Kenston Board of Education offices and the Transportation Department each year.  They will maintain, publish and communicate detailed procedures to Building Staff Appreciation Chairpersons.
 
 ## PTO COUNCIL COMMITTEES
-PTO Council may enact standing or ad hoc committees by majority vote as deemed necessary.   The committees shall be responsible to the President and PTO Council.  Such Committees are expected to have building representation and/or input to reach resolutions.   Representation may include the Building President or the Building Board member most associated with the topic at hand.  Input may include emails, phone calls or meetings.    
+PTO Council may enact standing or ad hoc committees by majority vote as deemed necessary.  The committees shall be responsible to the President and PTO Council. Such Committees are expected to have building representation and/or input to reach resolutions. Representation may include the Building President or the Building General Board member most associated with the topic at hand. Input may include emails, phone calls or meeting attendance.
+
+## PTO COUNCIL VOTING MEMBERS
+The voting members of the PTO Council are: Vice-President, Treasurer, Secretary, and all of the Council Committee Chairs (Care Blue, Communications, Bomber Hangar, Directory, Membership, Fundraising, and Staff Appreciation). In case of a tie, the President may cast a vote.
+
+## PTO COUNCIL ELECTIONS
+1.	No later than March 1st, the current PTO Council Executive Committee will identify which PTO Council positions will be vacated the subsequent school year and begin seeking nominations for those positions.
+2.	The current PTO Council Executive Committee shall contact eligible candidates (see below) no later than March 15th to seek nominations for remaining positions, if any. Interested individuals will present an application and a letter of recommendation to PTO Council by April 1.
+3.	At least two days prior to the meeting in which the election is held, the secretary will distribute the final list of all positions and nominees to the current PTO Council members.
+4.	No later than the regular May meeting, PTO Council will hold a vote for vacated Executive Committee positions and for vacated Committee Chairs. Voting will be held regardless of the number of nominees per position. Voting will be completed by written ballot and counted privately by the current President and the Superintendent or other District designee.
+5.	Elections will be subject to normal voting rules with the exception that the winner will be the person with the most number of votes. In the event of a tie, all nominees not included in the tie will be removed from consideration and the vote will be repeated. Nominees may choose to withdraw their name from consideration between ballots. This process will continue until a candidate has more votes than any others.
+
+### Requirements for Candidacy
+1.	The President of PTO Council shall have been a member of the PTO Council for at least one term prior to seeking election.
+2.	All members of the PTO Executive Committee must have served on the Executive Committee of a Building PTO for at least one term.
+3.	All Committee Chairs must have served on a Building Executive Council for one term or as a Building Committee Chair for at least two years.  Those with less than two years experience will be discussed by PTO Council and their eligibility will be determined by vote of the current Council Executive Board.
 
 # LEADERSHIP STRUCTURE:  BUILDING PTO BOARD
 
