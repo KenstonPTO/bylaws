@@ -22,9 +22,9 @@ The Kenston Parent Teacher Organization is a nonprofit corporation and shall be 
 The Kenston Parent Teacher Organization is an Ohio nonprofit corporation, recognized as tax exempt under Section 501(c)(3) of the United States Internal Revenue Code.
 
 ### Exempt Activities Limitation
-Notwithstanding any other provision of these by-laws, no director, office, employee, member, or representative of this corporation shall take any action or carry on any activity by or on behalf od the coproration not permitted to be taken or carried on by an organization exempt under Section 501(c)(3) of the Internal Revenue Code as it now exists or may be amended.
+Notwithstanding any other provision of these by-laws, no director, office, employee, member, or representative of this corporation shall take any action or carry on any activity by or on behalf of the corporation not permitted to be taken or carried on by an organization exempt under Section 501(c)(3) of the Internal Revenue Code as it now exists or may be amended.
 
-No part of the net earnings of the corporation shall inure to the benefit or be distributable to any director, officer, member, or other private person, except that the corporation shall be authorized and empowered to pay reasonable compensation for services rendered and to make payments and distributions in futherance of the purposes set forth in the Articles of Incorporation and these by-laws.
+No part of the net earnings of the corporation shall inure to the benefit or be distributable to any director, officer, member, or other private person, except that the corporation shall be authorized and empowered to pay reasonable compensation for services rendered and to make payments and distributions in furtherance of the purposes set forth in the Articles of Incorporation and these by-laws.
 
 ## STRUCTURE
 Kenston PTO is comprised of a PTO Council and a Building specific PTO for each school in the Kenston Local School District. Kenston PTO hereinafter will be referred to as PTO.
@@ -32,9 +32,9 @@ Kenston PTO is comprised of a PTO Council and a Building specific PTO for each s
 The PTO Council governs and coordinates all Building PTOs in the Kenston Local School District in an effort to support not only the individual PTOs, but the Kenston Local School District as a whole. 
 
 Each Building PTO plans and executes the PTO activities, events, and programs for their Building in support of the PTO mission in accordance with the by-laws of PTO and with the guidance of the PTO Council. Each Building PTO is to be structured as follows:
-* A Building Executive Committee - lead the Building PTO, act as liason with Building Administration and PTO Council, appoint the Building General Board.
+* A Building Executive Committee - lead the Building PTO, act as liaison with Building Administration and PTO Council, appoint the Building General Board.
 * A Building General Board - oversee committees to develop, plan, and execute the Building PTO activities.
-* All Building PTO Members - serve on committees, volunteer to help execute activites.
+* All Building PTO Members - serve on committees, volunteer to help execute activities.
 
 ## MEMBERSHIP AND DUES
 Membership will be offered to all parents, guardians, teachers and administrative staff in the Kenston Local School District
@@ -71,7 +71,7 @@ PTO Council is a board consisting of an Executive Committee (President, Vice-Pre
 
 ## PTO COUNCIL DUTIES
 The duties of a PTO Council member shall include, but not be limited to:
-1.	Have read and have an operational understadning of the PTO by-laws.
+1.	Have read and have an operational understanding of the PTO by-laws.
 2.	Abide by PTO Code of Conduct.
 3.	Attend regular and special meetings (arriving promptly and remaining until adjournment) and vote when required.
 4.	Keep a detailed account of duties, responsibilities and recommendations for succeeding members.
@@ -107,7 +107,7 @@ The function of the PTO Council Committee Chairs is to oversee a Committee to pr
 3.	The Bomber Hangar Chairperson shall manage all aspects of the Bomber Hangar Spirit Wear Store including, but not limited to, Purchasing, Inventory Management, Pricing, Marketing/Communications, Sales, Operations/Logistics and Volunteers. This includes evaluation of vendor relationships, outside services and sales/inventory systems as needed. The Chairperson will achieve profitability to sustain each year’s merchandise investment as well as maintaining an operating reserve specified by the Council Treasurer. When possible, ensure Building PTO Boards employ Bomber Hangar merchandise for prizes, incentives, staff appreciation, etc. The Chairperson will provide updates on the Bomber Hangar operations, sales and financial status at all PTO Council meetings. They will maintain, publish and communicate detailed Bomber Hangar procedures to Building Chairpersons and volunteers. When revenue exceeds the required reserve and operating levels, the Chair and Treasurer can coordinate disbursements to the individual Building PTOs. Disbursement levels will be based on number of grades per building and building support of Bomber Hangar.
 4.	Directory Chairperson is responsible for the annual creation of a district-wide Parent/Student Directory that contains the address and/or phone number of all students and their families on an opt-out basis. In particular, the chairperson may need to do the following tasks: securing printing services, working with the Fundraising Chair to solicit advertising sponsors, editing spreadsheet data received from the Board Office, communicating with parents regarding information to be printed (as needed), creating and sending invoices to sponsors, receiving and delivering checks from sponsors to PTO Council Treasurer, electronically sending data to the printer, reviewing the directory proof from the printer, organizing volunteers to help with directory distribution, pick up directories from the printer, label and distribute directories to separate buildings and sponsors, create invoice to building PTOs if required, and request PTO Council Treasurer to process payment for directory to the printer.
 5.	Membership Chairperson shall be responsible for overseeing the membership drive throughout the year at individual schools. This includes membership flyers for each individual school at the beginning of the school year, coordinating with Membership Chairs at individual schools, payment options and advertising with district during the school year.
-6.	Fundraising Chairperson shall be responsible for overseeing the fundraising at each particular school or district wide fundraiser, whichever Council or Buidlings decide on. In addition, the Fundraising Chair will oversee the fundraising person or committee at each Building, coordinate with the district office with regards to the time of said fundraising, and develop correspondence and social media posts for the fundraiser. The chairperson will also be responsible for coordinating all PTO Council fundraisers (e.g. Kalahari, Cavs or Indians game)
+6.	Fundraising Chairperson shall be responsible for overseeing the fundraising at each particular school or district wide fundraiser, whichever Council or Buildings decide on. In addition, the Fundraising Chair will oversee the fundraising person or committee at each Building, coordinate with the district office with regards to the time of said fundraising, and develop correspondence and social media posts for the fundraiser. The chairperson will also be responsible for coordinating all PTO Council fundraisers (e.g. Kalahari, Cavs or Indians game)
 7.	Staff Appreciation Chairperson shall be responsible for organizing and executing the staff appreciation of the Kenston Board of Education offices and the Transportation Department each year. They will maintain, publish and communicate detailed procedures to Building Staff Appreciation Chairpersons.
 
 ## PTO COUNCIL COMMITTEES
@@ -181,7 +181,7 @@ Where appropriate, Building PTO may create committees to execute the work of the
 ## BUILDING PTO EXECUTIVE COMMITTEE ELECTIONS
 Building PTOs shall elect their own Executive Committees. The results of the election will be presented to the PTO Council at the next meeting for Council review and approval. The process for Elections is as follows:
 1.	No later than February 1st, the current Building Executive Committee will identify which Executive Officer positions will be vacated the subsequent school year. Open positions will then be announced via email to the Current Board and the Preceding School’s current board for nominations.
-2.	At the regular March meeting of the Building PTO and the Preceeding Building's PTO, the open positions will be announced and nominations saught.
+2.	At the regular March meeting of the Building PTO and the Preceding Building's PTO, the open positions will be announced and nominations sought.
 3.	Nominations should be provided to the President. Self-nominations will be accepted. Nominees must be approved by the Building Principal and PTO Council. In addition, the President will contact each nominee to determine their willingness to serve.
 4.	The President shall prepare a printed ballot with all open positions and nominees. This will be distributed to the General Board members prior to the April Building PTO Meeting.
 5.	At the April Building PTO meeting, a secret vote will be held for each open position, regardless to the number of nominees. At the close of the meeting, the ballots shall be counted by the PTO President and School Representative i.e. principal, assistant principal, guidance counselor. The results will be communicated to PTO Council within 24 hours of the meeting. Ballots must be kept until the end of the subsequent school year.
@@ -197,7 +197,7 @@ Each year, the Executive Committee will identify which Board Positions will be v
 3.	Membership enrollment shall be considered a fundraiser and shall be managed according to the “MEMBERSHIP AND DUES” section of these by-laws.
 4.	In addition to an annual Membership Drive, each Building PTO may conduct one annual fundraiser not to exceed two weeks in active student/staff/parent involvement. All fundraising events/communications need to be approved by the Building Principal.
 5.	Other events that generate income can only be conducted if the net profits are used for a specific Building or District goal that has been documented and communicated prior to the event. Examples include Book Fair, One-School-One Book, etc.
-6.	Passive Fundraising events are allowed, and the proceeds may be desposited into the general fund, if approved by the PTO Council. A passive fundraiser is one in which an opportunity is provided to families, students, and/or staff that may be easily ignored, does not have an in-school component, and does not require PTO volunteers. These type of fundraisers typically are "match" based where some percentage of money spent is then donated to the PTO. Examples of approved passive fundraisers are: Coke Rewards, BoxTops4Education, School Kids supply drive, Kalahari, restaurant match funding.
+6.	Passive Fundraising events are allowed, and the proceeds may be deposited into the general fund, if approved by the PTO Council. A passive fundraiser is one in which an opportunity is provided to families, students, and/or staff that may be easily ignored, does not have an in-school component, and does not require PTO volunteers. These type of fundraisers typically are "match" based where some percentage of money spent is then donated to the PTO. Examples of approved passive fundraisers are: Coke Rewards, BoxTops4Education, School Kids supply drive, Kalahari, restaurant match funding.
 7.	Community Sponsorships may be incorporated into fundraising but must be communicated to other Buildings through PTO Council.
 8.	If an additional financial need arises a building PTO may present the proposed fundraiser to PTO Council for a vote. Such plans must be confirmed by PTO Council and the Building Principal prior to any activity, preparation or voting at the Building level. Financial need, funding purpose and current fundraising atmosphere in the District are to be considered.
 10.	At the request of the Kenston School District, sponsorships may not be referenced on any materials deemed as homework.
@@ -224,13 +224,13 @@ Cash outlays will be made by the treasurer when accompanied by proper forms and 
 ## OUTSIDE FUNDING REQUESTS
 Any member of the Kenston community can request the PTO to fund a specific request outside of the existing budget by submitting an Outside Funding Request to the appropriate Building PTO or to PTO Council.
 
-The PTO Council Treasurer is responsible for developing the process by which Outside Funding Requests are handled wihtin the folloowing constraints and goals.
+The PTO Council Treasurer is responsible for developing the process by which Outside Funding Requests are handled within the following constraints and goals.
 1. Efforts should be made to provide the Outside Funding Request form in electronic form (e.g. Google Form, fillable PDF).
 2. The Outside Funding Request much include the following information: X, Y, Z.
 3. Requests of a specific Building PTO are to be sent to both the Building PTO President and Building Principal (or their designee).
 4. All Outside Funding Requests require approval by a District Representative to attest to the request being in line with District policies and needs.
 5. The content of the Outside Funding Request is to be sent to the Board prior to the next Regular Meeting.  In cases where the Requested need is urgent, the content can be distributed electronically and then two days later an electronic vote held.
-6. At the Regular Meeting, the Funding Request is to be presented by the Requestor and/or the Building President.  The Board will then have the opportunity to ask questions of the presentor.
+6. At the Regular Meeting, the Funding Request is to be presented by the Requestor and/or the Building President.  The Board will then have the opportunity to ask questions of the presenter.
 7. Prior to any vote on a funding request, the Treasurer must report on the projected cash surplus or deficit for the year to determine the feasibility of the request.
 8. Voting will follow the rules laid out in these by-laws.
 9. For any approved Outside Funding Request, the Treasurer will work with the Requestor to complete the request in accordance with the EXPENDITURES section of these by-laws.
