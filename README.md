@@ -78,7 +78,7 @@ The duties of a PTO Council member shall include, but not be limited to:
 5.	If chairing a committee, make progress reports at all meetings or respond to current inactivity by saying “no report”. 
 6.	Answer correspondence promptly including providing committee documentation and keeping complete correspondence files.
 7.	Follow all Treasury policies, including submitting funds for disbursement and proper handling of receipts.
-8.	All PTO Council members (with the exception of Building Presidents and Vice Presidents) are required to attend at least one Kenston Board of Education meeting per year and provide a report to the Council President afterwards.
+8.	All PTO Council members (with the exception of President and Vice Presidents) are required to attend at least one Kenston Board of Education meeting per year and provide a report to the Council President afterwards.
 9.	All PTO Council members must be a member of at least on Building PTO General Board or be an active committee member in at least one Building PTO.
 10.	Upon expiration of the term of office, or in case of resignation, turn over to the President all records, books and other materials pertaining to office without delay, and shall return to the Treasurer, immediately, all funds pertaining to the office.
 
