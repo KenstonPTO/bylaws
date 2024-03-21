@@ -235,7 +235,6 @@ The PTO Council Treasurer is responsible for developing the process by which Out
 8. Voting will follow the rules laid out in these by-laws.
 9. For any approved Outside Funding Request, the Treasurer will work with the Requestor to complete the request in accordance with the EXPENDITURES section of these by-laws.
 
-
 ## AUDITS/INTERNAL CONTROLS:
 1.	The PTO fiscal year shall be July 1 – June 30.
 2.	Each Building and PTO Council’s fiscal accounts shall be examined annually by an auditor chosen by PTO Council. Accounts shall not be audited by their own Treasurer. Audits shall include but are not limited to verification of bank balance, adherence to budget or votes, adherence to by-laws, inclusion of proper financial reporting and supporting documentation.
@@ -245,7 +244,6 @@ The PTO Council Treasurer is responsible for developing the process by which Out
 6.	The PTO Council Treasurer is responsible for maintaining an accurate check signing register with the bank, not to exceed current Building Treasurer(s), current Building President(s), and Treasurer of PTO Council. 
 7.	The Treasurer of PTO Council shall have access to all PTO bank accounts for the purposes of investigating concerns and verifying reporting on an ongoing basis. PTO Council Executive Committee may commission a special audit of the financial records of any Building PTO if deemed necessary.
 8.	When collecting receipts for any event, a representative of the corresponding committee shall prepare proper documentation for the receipts (see appendix), shall count and double count the receipts, sign off and present the deposit to the Treasurer or secure the deposit in the safe within 48 hours of the event, notifying the Treasurer. In the event that the receipts exceed $500, the receipts must be double counted by another committee representative. The Treasurer shall complete a third count of receipts, and may not perform the first or second counts. 
-
 
 # PARLIAMENTARY PROCEDURE
 
@@ -275,18 +273,16 @@ Regular Meetings of each Building PTO and PTO Council will be held during the sc
 8.	In the event of an emergency motion where the timing is such that resolution is needed prior to the next meeting, an electronic vote may be called at the discretion of the President. A majority vote of the board will be required.
 9.	The results of all voting shall be final and adhered to by all Board members until another vote is called. The results of all votes shall be published in the minutes.
  
-
 ## AFFILIATES
 1.	It shall be the policy of the PTO to aid and/or sponsor non-partisan organizations within the community whose purpose is to assist in the development and training of children in the community, with President and Council approval.
 2.	The PTO Council and Building PTOs shall neither verbally nor financially aid or sponsor any political issues or candidates.
 3.	The name of the organization or the names of any members in their official capacities shall not be used in any connection with a commercial concern or with any partisan interest or for any purpose not appropriately related to promotion of the Mission Statement of the organization.
 
-## OFFICE REMOVAL
+## OFFICER REMOVAL
 1.	Any elected officer may be removed from office by a three-quarter affirmative vote of the Board conducted by secret ballot. Ballots can not be counted by the officer up for removal.
 2.	A motion to remove a specific officer may be raised no more than once per meeting.
 3.	Members of a Building PTO Board can not move to recall an officer outside of that specific Building.
 4.	PTO Council may remove officers from any Building PTO Board.
-
 
 ## AMENDMENTS
 Concerns regarding amendments to these by-laws shall be brought to the attention of the PTO Council Executive Committee who will review said concerns and place the issue on the agenda of the next scheduled PTO Council meeting. 
