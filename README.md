@@ -252,7 +252,7 @@ Regular Meetings of each Building PTO and PTO Council will be held during the sc
 1.	PTO Council – First Friday of every month, 9:00 a.m.
 2.	Timmons Elementary School – Second Wednesday of every month, 9:30 a.m.
 4.	Kenston Middle School – Second Thursday of every month, 9:30 a.m.
-5.	Kenston High School – Second Wednesday of every month, 9:45 a.m.
+5.	Kenston High School – Second Tuesday of every month, 9:30 a.m.
 6.	The dates and times of these meetings are to be set by the Building or PTO Council President prior to the start of the school year. 
 7.	All meeting procedures shall be governed by these by-laws, using Robert's Rules of Order.
 8.	The meeting agenda must be distributed at least two days prior to the meeting and is to include the text of all funding requests and a description of each item up for vote.
